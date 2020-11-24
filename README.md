@@ -21,7 +21,7 @@ You can decide to add some extra arguments as shown above. The meaning of each a
 - lower_tokens: True if you want to leave lower tokens. (default = False)
 - no_accent_marks: It replaces (á, é, í, ó, ú) characters by (a, e, i, o, u) (default = False)
 - verbose: True if you want verbose prints in the console. (default = False)
-- types: You can decide which entities to keep in conll file, deleting other. (default = None)
+- types: You can decide which entities to keep in conll file. (default = None)
 
 
 ## Data analysis.
