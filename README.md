@@ -27,5 +27,3 @@ You can decide to add some extra arguments as shown above. The meaning of each a
 ## Data analysis.
 
 Run the script in `data_analysis.py`. The results will be will be printed to console and the json files will be saved in `resources/json_files`. 
-
-
