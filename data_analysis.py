@@ -28,7 +28,7 @@ def read_dental_files():
     "CIRUGIA BUCAL",
     "PERIODONCIA"]
 
-    with open('resources/specialty_mapper.json', 'r') as f:
+    with open('resources/json_files/specialty_mapper.json', 'r') as f:
         distros_dict = json.load(f)
 
     dental_files = []
@@ -103,7 +103,7 @@ def write_nested_entities(nested_matrix):
     for i, row in enumerate(nested_matrix):
         nested_dict[entities[i]] = row.tolist()
 
-    with open('nested.json', 'w', encoding='utf-8') as f:
+    with open('resources/json_files/nested.json', 'w', encoding='utf-8') as f:
         json.dump(nested_dict, f, ensure_ascii=False, indent=4)
 
 def get_atributes(dental_files):
@@ -160,7 +160,6 @@ def tokens_per_entity(dental_files):
     family_tokens = []
     disease_tokens = []
     finding_tokens = []
-
     ann_filepaths = sorted(glob.glob(os.path.join('resources/annotations', '*.ann')))
     for path in ann_filepaths: 
         if dental and path not in dental_files:
@@ -199,7 +198,7 @@ def tokens_per_entity(dental_files):
     final_dict['Disease']=disease_tokens
     final_dict['Finding']=finding_tokens
 
-    with open('total_largos.json', 'w', encoding='utf-8') as f:
+    with open('resources/json_files/total_largos.json', 'w', encoding='utf-8') as f:
         json.dump(final_dict, f, ensure_ascii=False, indent=4)
 
 
@@ -243,7 +242,7 @@ def anno_freq_per_doc(dental_files):
 
 
 
-    with open('total_conteo.json', 'w', encoding='utf-8') as f:
+    with open('resources/json_files/total_conteo.json', 'w', encoding='utf-8') as f:
         json.dump(final_dict, f, ensure_ascii=False, indent=4)
 
 
@@ -251,9 +250,9 @@ if __name__ == "__main__":
      dental_files = read_dental_files()
      print(f'La cantidad de anotaciones dentales es: {len(dental_files)}')
      dental_entities, no_dental_entities, total_entities = count_entities(dental_files, 'resources/annotations')
-     print(f'La cantidad de entidades en corpus dental es: ' + str(dental_entities))
-     print(f'La cantidad de entidades en corpus no dental es: ' + str(no_dental_entities))
-     print(f'La cantidad de entidades en corpus total es: ' + str(total_entities))
+     print(f'La cantidad de entidades en corpus dental es: {dental_entities}')
+     print(f'La cantidad de entidades en corpus no dental es: {no_dental_entities}')
+     print(f'La cantidad de entidades en corpus total es: {total_entities}')
      nested_matrix = get_nested_matrix('resources/annotations')
      #write_nested_entities(nested_matrix)
      relations = get_relations(dental_files)
