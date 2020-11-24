@@ -1,0 +1,7 @@
+# python -m spacy download es_core_news_lg
+es-core-news-lg==2.3.1
+gensim==3.8.3
+pillow==8.0.1
+pip-chill==1.0.0
+seaborn==0.11.0
+matplotlib==3.2.0
