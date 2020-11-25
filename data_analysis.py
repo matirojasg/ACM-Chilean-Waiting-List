@@ -15,131 +15,179 @@ from utils import simplify_entity, read_file
 def CountFrequency(arr): 
     return collections.Counter(arr) 
 
-def read_dental_files():
-    DENTAL_SPECIALTIES = [
-    "ENDODONCIA",
-    "OPERATORIA",
-    "ENDODONCIA",
-    "REHABILITACION: PROTESIS FIJA",
-    "CIRUGIA MAXILO FACIAL",
-    "ODONTOLOGIA INDIFERENCIADO",
-    "REHABILITACION: PROTESIS REMOVIBLE",
-    "TRASTORNOS TEMPOROMANDIBULARES Y DOLOR OROFACIAL",
-    "CIRUGIA BUCAL",
-    "PERIODONCIA"]
+def get_dental_files(path):
+    """
+    Get filenames associated to dental specialties.
+    """
 
-    with open('resources/json_files/specialty_mapper.json', 'r') as f:
-        distros_dict = json.load(f)
+    DENTAL_SPECIALTIES = ["ENDODONCIA","OPERATORIA","ENDODONCIA","REHABILITACION: PROTESIS FIJA", \
+        "CIRUGIA MAXILO FACIAL","ODONTOLOGIA INDIFERENCIADO", "REHABILITACION: PROTESIS REMOVIBLE", \
+        "TRASTORNOS TEMPOROMANDIBULARES Y DOLOR OROFACIAL","CIRUGIA BUCAL","PERIODONCIA"]
+    
+    with open(path, 'r') as f:
+        specialties_dict = json.load(f)
 
-    dental_files = []
-
-    for key,value in distros_dict.items():
-        if value in DENTAL_SPECIALTIES:
-            dental_files.append(key.split('.')[0] + '.ann')
+    dental_files = [key.split('.')[0] + '.ann' for key, value in specialties_dict.items() if value in DENTAL_SPECIALTIES]
     return dental_files
 
 def get_entities_per_file(path):
-  entities = 0
-  with codecs.open(path, 'r', 'UTF-8') as f:
-        text = f.read()
-        for line in text.splitlines():
-            annotation = line.split()
-            if annotation[0][0] == 'T' and ';' not in annotation[3]:
-              entities += 1
-  return entities
+  n_entities = 0
+  text = read_file(path, 'utf-8')
+  for line in text.splitlines():
+    annotation = line.split()
+    if annotation[0][0] == 'T' and ';' not in annotation[3]:
+        n_entities += 1
+  return n_entities
 
 def count_entities(dental_files, folder_path):
-  dental_entities = 0
-  no_dental_entities = 0
-  total_entities = 0
+  """
+  Returns total entities (Begin-entity) in three different corpus: Dental, Non dental, Dental + Non Dental
+  """
+
+  n_dental_entities = 0
+  n_non_dental_entities = 0
+  n_total_entities = 0
   ann_filepaths = sorted(glob.glob(os.path.join(folder_path, '*.ann')))
   for path in ann_filepaths: 
       filename = os.path.basename(path)
       if filename in dental_files:
         entities = get_entities_per_file(path)
-        dental_entities += entities
-        total_entities  += entities
+        n_dental_entities += entities
+        n_total_entities  += entities
       if filename not in dental_files:
         entities = get_entities_per_file(path)
-        no_dental_entities += entities
-        total_entities  += entities  
-  return dental_entities, no_dental_entities, total_entities
+        n_non_dental_entities += entities
+        n_total_entities  += entities  
+  return n_dental_entities, n_non_dental_entities, n_total_entities
 
-def get_outer_inner_entities(text, filepath):
-    outer_inner_entities = []
-    for line1 in text.splitlines():    
-        outer_entity = line1.split()
-        inner_entities = []
+   
+def get_nested_entities(text):
+    """
+    Find all nested entities. [Entity1 (Outer entity), Entity2 (Inner entity inside Entity1), Entity3....]
+    """
+    nested_entities = []
+    for line in text.splitlines():    
+        outer_entity = line.split()
+        nested_entity = []
         if outer_entity[0].startswith('T') and ';' not in outer_entity[3]:
-            inner_entities.append([outer_entity[1], ' '.join(outer_entity[4:]), filepath])
-            for line2 in text.splitlines():
-                inner_entity = line2.split()
-                if line2!=line1 and inner_entity[0].startswith('T') and ';' not in inner_entity[3] and int(inner_entity[2])>=int(outer_entity[2]) and int(inner_entity[3])<=int(outer_entity[3]):
-                    inner_entities.append([inner_entity[1], ' '.join(inner_entity[4:]), filepath])
-        if len(inner_entities)<=1:
+            nested_entity.append(outer_entity[1])
+            for other_line in text.splitlines():
+                inner_entity = other_line.split()
+                if other_line!=line and inner_entity[0].startswith('T') and ';' not in inner_entity[3] \
+                     and int(inner_entity[2])>=int(outer_entity[2]) and int(inner_entity[3])<=int(outer_entity[3]):
+                    nested_entity.append(inner_entity[1])
+        if len(nested_entity)<=1:
           continue
-        outer_inner_entities.append(inner_entities)
-    return outer_inner_entities 
+        nested_entities.append(nested_entity)
+    return nested_entities
 
-def get_nested_matrix(ann_folder):
-    nested_entities_array = []
+
+def get_nested_matrix(ann_folder, dental_files):
+    """
+    Get nested entities matrix where rows entities are contained in columns entities.
+    """
+
     entities = {'Finding': 0,'Procedure': 1,'Family_Member': 2,'Disease': 3, 'Body_Part': 4, 'Medication': 5, 'Abbreviation': 6}
-    nested_matrix = np.zeros((7,7), dtype=int)
     ann_filepaths = sorted(glob.glob(os.path.join(ann_folder, '*.ann')))
-    
-    for path in ann_filepaths: 
-        text = read_file(path, 'UTF-8') 
-        nested_entities_array.append(get_outer_inner_entities(text, os.path.basename(path))) 
+    dental_nested_entities = []
+    non_dental_nested_entities = []
+    nested_entities = []
 
+    for path in ann_filepaths:
+        text = read_file(path, 'UTF-8')
+        nested_entities.append(get_nested_entities(text))
+        if os.path.basename(path) in dental_files:
+            dental_nested_entities.append(get_nested_entities(text)) 
+        else:
+            non_dental_nested_entities.append(get_nested_entities(text)) 
+             
+
+    dental_nested_matrix = get_matrix(dental_nested_entities, entities)
+    non_dental_nested_matrix = get_matrix(non_dental_nested_entities, entities)
+    nested_matrix = get_matrix(nested_entities, entities)
+    return dental_nested_matrix, non_dental_nested_matrix, nested_matrix
+
+def get_matrix(nested_entities_array, entities_dict):
+    nested_matrix = np.zeros((7,7), dtype=int)
     for nested_entities in nested_entities_array:
         for nested_sample in nested_entities:
             for inner_entity in nested_sample[1:]:
-                nested_matrix[entities[simplify_entity(inner_entity[0])]][entities[simplify_entity(nested_sample[0][0])]]+=1 
+                nested_matrix[entities_dict[simplify_entity(inner_entity)]][entities_dict[simplify_entity(nested_sample[0])]]+=1 
     return nested_matrix
 
-def write_nested_entities(nested_matrix):
+def write_nested_entities(path, nested_matrix):
+    """
+    Write in json format the nested entities matrix.
+    """
+
     entities = ['Finding', 'Procedure', 'Family_Member', 'Disease', 'Body_Part', 'Medication', 'Abbreviation']
     nested_dict = {}
     for i, row in enumerate(nested_matrix):
         nested_dict[entities[i]] = row.tolist()
 
-    with open('resources/json_files/nested.json', 'w', encoding='utf-8') as f:
+    with open(path, 'w', encoding='utf-8') as f:
         json.dump(nested_dict, f, ensure_ascii=False, indent=4)
-
-def get_atributes(dental_files):
-    dental = False
-    ann_filepaths = sorted(glob.glob(os.path.join('resources/annotations', '*.ann')))
-    atributes = []
-    for path in ann_filepaths:
-        if dental and path not in dental_files:
-            continue
-        with codecs.open(path, 'r', 'UTF-8') as f:
-            text = f.read()
-        for line in text.splitlines():
-            annotation = line.split()
-            id_anno = annotation[0]
-            if id_anno[0] == 'A':
-                atributes.append(annotation[1])
-
-    return atributes
-
-def get_relations(dental_files):
-    ann_filepaths = sorted(glob.glob(os.path.join('resources/annotations', '*.ann')))
-    dental = False
-    relations = 0
-    for path in ann_filepaths:
-        if dental and path not in dental_files:
-            continue
-        with codecs.open(path, 'r', 'UTF-8') as f:
-            text = f.read()
-        for line in text.splitlines():
-            annotation = line.split()
-            id_anno = annotation[0]
-            if id_anno[0] == 'R':
-                relations+=1
-    return relations
-
  
+def get_all_attributes(dental_files):
+    """
+    It returns the attributes found in the annotations.
+    """
+
+    ann_filepaths = sorted(glob.glob(os.path.join('resources/annotations', '*.ann')))
+    dental_attributes = []
+    non_dental_attributes = []
+    attributes = []
+
+    for path in ann_filepaths:
+        text = read_file(path, 'utf-8')
+        attributes+=get_attributes(text)
+        if os.path.basename(path) in dental_files:
+            dental_attributes+=get_attributes(text)
+        else:
+            non_dental_attributes+=get_attributes(text)
+    return dental_attributes, non_dental_attributes, attributes
+
+def get_attributes(text):
+    attributes = []
+    for line in text.splitlines():
+        annotation = line.split()
+        id_anno = annotation[0]
+        if id_anno[0] == 'A':
+            attributes.append(annotation[1])
+    return attributes
+
+def print_frequency_dict(attributes, type):
+    freq = CountFrequency(attributes) 
+    entity_frequency = {}
+    for key, value in sorted(freq.items(),key=lambda item: item[1]):
+        entity_frequency[key]=value
+    print(f'{type} attributes: {entity_frequency}') 
+
+def get_all_relations(dental_files):
+    """
+    It returns the number of relations found in the annotations.
+    """
+    ann_filepaths = sorted(glob.glob(os.path.join('resources/annotations', '*.ann')))
+    n_dental_relations = 0
+    n_non_dental_relations = 0
+    n_relations = 0
+    for path in ann_filepaths:
+        text = read_file(path, 'utf-8')
+        n_relations+=get_relations(text)
+        if os.path.basename(path) in dental_files:
+            n_dental_relations+=get_relations(text)
+        else:
+            n_non_dental_relations+=get_relations(text)   
+    return n_dental_relations, n_non_dental_relations, n_relations
+
+def get_relations(text):
+    n_relations = 0
+    for line in text.splitlines():
+        annotation = line.split()
+        id_anno = annotation[0]
+        if id_anno[0] == 'R':
+            n_relations+=1
+    return n_relations
 
 def get_tokens_len(text):
   nlp = es_core_news_lg.load()
@@ -246,23 +294,31 @@ def anno_freq_per_doc(dental_files):
         json.dump(final_dict, f, ensure_ascii=False, indent=4)
 
 
-if __name__ == "__main__":
-     dental_files = read_dental_files()
-     print(f'La cantidad de anotaciones dentales es: {len(dental_files)}')
-     dental_entities, no_dental_entities, total_entities = count_entities(dental_files, 'resources/annotations')
-     print(f'La cantidad de entidades en corpus dental es: {dental_entities}')
-     print(f'La cantidad de entidades en corpus no dental es: {no_dental_entities}')
-     print(f'La cantidad de entidades en corpus total es: {total_entities}')
-     nested_matrix = get_nested_matrix('resources/annotations')
-     #write_nested_entities(nested_matrix)
-     relations = get_relations(dental_files)
-     print(f'La cantidad de relaciones identificadas es: {relations}')  
-     atributes = get_atributes(dental_files)
-     freq = CountFrequency(atributes) 
-     entity_frequency = {}
-     for key, value in sorted(freq.items(),key=lambda item: item[1]):
-            entity_frequency[key]=value
 
-     print(f'La cantidad de atributos encontrados es: {entity_frequency}') 
+if __name__ == "__main__":
+     dental_files = get_dental_files('resources/json_files/specialty_mapper.json')
+     print(f'The number of dental annotations is: {len(dental_files)} \n')
+
+     dental_entities, no_dental_entities, total_entities = count_entities(dental_files, 'resources/annotations')
+
+     print(f'Dental corpus entities: {dental_entities}')
+     print(f'Non dental corpus entities: {no_dental_entities}')
+     print(f'Total corpus entities: {total_entities} \n')
+
+     dental_nested_matrix, non_dental_nested_matrix, nested_matrix = get_nested_matrix('resources/annotations', dental_files)
+     write_nested_entities('resources/json_files/dental_nested_matrix.json', dental_nested_matrix)
+     write_nested_entities('resources/json_files/non_dental_nested_matrix.json', non_dental_nested_matrix)
+     write_nested_entities('resources/json_files/nested_matrix.json', nested_matrix)
+
+     dental_attributes, non_dental_attributes, attributes = get_all_attributes(dental_files)
+     print_frequency_dict(dental_attributes, 'Dental')
+     print_frequency_dict(non_dental_attributes, 'Non Dental')
+     print_frequency_dict(attributes, 'Total')
+      
+     dental_relations, non_dental_relations, relations = get_all_relations(dental_files)
+     print(f'Dental corpus relations: {dental_relations}')
+     print(f'Non dental corpus relations: {non_dental_relations}')
+     print(f'Total corpus relations: {relations} \n')
+     
      #tokens_per_entity(dental_files)
-     anno_freq_per_doc(dental_files)
+     #anno_freq_per_doc(dental_files)
