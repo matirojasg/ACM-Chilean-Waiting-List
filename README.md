@@ -1,6 +1,6 @@
 # The Chilean Waiting List Corpus.
 
-Code for the paper Advances in Automatic Detection of Medical and Dental Entities in Clinical Referrals in Spanish.
+Code for the paper Advances in Automatic Detection of Medical and Dental Entities in Clinical Referrals in Spanish. This repository contains brat to conll transformation and statistics.
 
 ## Install
 
