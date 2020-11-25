@@ -189,8 +189,7 @@ def get_relations(text):
             n_relations+=1
     return n_relations
 
-def get_tokens_len(text):
-  nlp = es_core_news_lg.load()
+def get_tokens_len(text, nlp):
   tokens = []
   for sent in nlp(text).sents:
     for token in sent:
@@ -199,81 +198,57 @@ def get_tokens_len(text):
 
 
 def tokens_per_entity(dental_files):
-    dental = False
-    no_dental = False
-    procedure_tokens = []
-    medication_tokens = []
-    body_tokens = []
-    abb_tokens = []
-    family_tokens = []
-    disease_tokens = []
-    finding_tokens = []
+    dental_entity_tokens = {'Procedure': [], 'Medication': [], 'Body_Part': [], 'Abbreviation': [], 'Family_Member': [], 'Disease': [], 'Finding': []}
+    non_dental_entity_tokens = {'Procedure': [], 'Medication': [], 'Body_Part': [], 'Abbreviation': [], 'Family_Member': [], 'Disease': [], 'Finding': []}
+    entity_tokens = {'Procedure': [], 'Medication': [], 'Body_Part': [], 'Abbreviation': [], 'Family_Member': [], 'Disease': [], 'Finding': []}  
+    nlp = es_core_news_lg.load()
     ann_filepaths = sorted(glob.glob(os.path.join('resources/annotations', '*.ann')))
     for path in ann_filepaths: 
-        if dental and path not in dental_files:
-            continue
-        if no_dental and path in dental_files:
-            continue
-        with codecs.open(path, 'r', 'UTF-8') as f: 
-            for line in f.read().splitlines():
-                anno = line.split()
-                id_anno = anno[0]
-                if id_anno[0] == 'T' and ';' not in anno[3]:
-                    entity = simplify_entity(anno[1])
-                    if entity == "Procedure":
-                        procedure_tokens.append(get_tokens_len(' '.join(anno[4:])))
-                    elif entity =="Medication":
-                        medication_tokens.append(get_tokens_len(' '.join(anno[4:])))
-                    elif entity =="Body_Part":
-                        body_tokens.append(get_tokens_len(' '.join(anno[4:])))
-                    elif entity =="Abbreviation":
-                        abb_tokens.append(get_tokens_len(' '.join(anno[4:])))
-                    elif entity =="Family_Member":
-                        family_tokens.append(get_tokens_len(' '.join(anno[4:])))
-                    elif entity=="Finding":
-                        finding_tokens.append(get_tokens_len(' '.join(anno[4:])))
-                    elif entity=="Disease":
-                        disease_tokens.append(get_tokens_len(' '.join(anno[4:])))
-                    else:
-                        pass
+        text = read_file(path, 'utf-8') 
+        entity_tokens_file = get_tokens_per_entity(text, nlp)
+        for key,value in entity_tokens_file.items():
+            entity_tokens[key]+=value
+        if os.path.basename(path) in dental_files:
+            dental_entity_tokens_file = get_tokens_per_entity(text, nlp)
+            for key,value in dental_entity_tokens_file.items():
+                dental_entity_tokens[key]+=value
+        else:
+            non_dental_entity_tokens_file = get_tokens_per_entity(text, nlp)
+            for key,value in non_dental_entity_tokens_file.items():
+                non_dental_entity_tokens[key]+=value
 
-    final_dict = {}
-    final_dict['Procedure']=procedure_tokens
-    final_dict['Medication']=medication_tokens
-    final_dict['Body_Part']=body_tokens
-    final_dict['Abbreviation']= abb_tokens
-    final_dict['Family_Member']= family_tokens
-    final_dict['Disease']=disease_tokens
-    final_dict['Finding']=finding_tokens
+    with open('resources/json_files/dental_largos.json', 'w', encoding='utf-8') as f:
+        json.dump(dental_entity_tokens, f, ensure_ascii=False, indent=4)
+
+    with open('resources/json_files/non_dental_largos.json', 'w', encoding='utf-8') as f:
+        json.dump(non_dental_entity_tokens, f, ensure_ascii=False, indent=4)
 
     with open('resources/json_files/total_largos.json', 'w', encoding='utf-8') as f:
-        json.dump(final_dict, f, ensure_ascii=False, indent=4)
+        json.dump(entity_tokens, f, ensure_ascii=False, indent=4)
 
+def get_tokens_per_entity(text, nlp):
+    entity_tokens = {'Procedure': [], 'Medication': [], 'Body_Part': [], 'Abbreviation': [], 'Family_Member': [], 'Disease': [], 'Finding': []}
+    for line in text.splitlines():
+            anno = line.split()
+            id_anno = anno[0]
+            if id_anno[0] == 'T' and ';' not in anno[3]:
+                entity = simplify_entity(anno[1])
+                entity_tokens[entity].append(get_tokens_len(' '.join(anno[4:]), nlp))       
+    return entity_tokens
 
-def anno_freq_per_doc(dental_files):
-    dental = False
-    no_dental = False
-    ann_filepaths = sorted(glob.glob(os.path.join('resources/annotations', '*.ann')))
-    total_entities_ann = []
+def get_anno_entities(text):
+    entities_ann = []
+    for line in text.splitlines():
+        anno = line.split()
+        id_anno = anno[0]
+        if id_anno[0] == 'T' and ';' not in anno[3]:
+            entity = simplify_entity(anno[1])
+            entities_ann.append(entity)
+    return entities_ann
 
-    for path in ann_filepaths: 
-        if dental and path not in dental_files:
-            continue
-        if no_dental and path in dental_files:
-            continue
-        entities_ann = []
-        with codecs.open(path, 'r', 'UTF-8') as f: 
-            for line in f.read().splitlines():
-                anno = line.split()
-                id_anno = anno[0]
-                if id_anno[0] == 'T' and ';' not in anno[3]:
-                    entity = simplify_entity(anno[1])
-                    entities_ann.append(entity)
-            total_entities_ann.append(entities_ann)
-                
-
+def write_anno_per_document(ann_filepaths, entities_files, name):
     entities_freq = []
-    for file in total_entities_ann:
+    for file in entities_files:
         freq = CountFrequency(file)  
         temporal_array = []                            
         for key, value in freq.items():
@@ -290,8 +265,27 @@ def anno_freq_per_doc(dental_files):
 
 
 
-    with open('resources/json_files/total_conteo.json', 'w', encoding='utf-8') as f:
+    with open('resources/json_files/' + name + '_conteo.json', 'w', encoding='utf-8') as f:
         json.dump(final_dict, f, ensure_ascii=False, indent=4)
+
+def anno_freq_per_doc(dental_files):
+    ann_filepaths = sorted(glob.glob(os.path.join('resources/annotations', '*.ann')))
+    dental_entities_ann = []
+    non_dental_entities_ann = []
+    total_entities_ann = []
+
+    for path in ann_filepaths: 
+        text = read_file(path, 'utf-8')
+        total_entities_ann.append(get_anno_entities(text))
+        if os.path.basename(path) in dental_files:
+            dental_entities_ann.append(get_anno_entities(text))
+        else:
+            non_dental_entities_ann.append(get_anno_entities(text))
+                
+    write_anno_per_document(ann_filepaths, dental_entities_ann, 'dental')
+    write_anno_per_document(ann_filepaths, non_dental_entities_ann, 'non_dental')
+    write_anno_per_document(ann_filepaths, total_entities_ann, 'total')
+    
 
 
 
@@ -320,5 +314,6 @@ if __name__ == "__main__":
      print(f'Non dental corpus relations: {non_dental_relations}')
      print(f'Total corpus relations: {relations} \n')
      
-     #tokens_per_entity(dental_files)
-     #anno_freq_per_doc(dental_files)
+     tokens_per_entity(dental_files)
+     
+     anno_freq_per_doc(dental_files)

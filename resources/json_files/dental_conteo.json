@@ -1,0 +1,4805 @@
+{
+    "resources/annotations\\0017694b07e875f7ad456d3d4515b9a0.ann": {
+        "Body_Part": "2",
+        "Procedure": "1",
+        "Disease": "2"
+    },
+    "resources/annotations\\001a301fcea934fd5588dcd64f969844.ann": {
+        "Abbreviation": "2",
+        "Finding": "2",
+        "Disease": "2"
+    },
+    "resources/annotations\\001b6015f4a9972eb609cc0cb5a46f27.ann": {
+        "Disease": "5"
+    },
+    "resources/annotations\\0028f66bd63a36b8d74e4f2dd05c0a30.ann": {
+        "Abbreviation": "3",
+        "Disease": "1",
+        "Finding": "3"
+    },
+    "resources/annotations\\00320ac71e4c412f8bafef5fbad7df08.ann": {
+        "Body_Part": "4",
+        "Abbreviation": "4",
+        "Disease": "1",
+        "Procedure": "1",
+        "Finding": "2"
+    },
+    "resources/annotations\\003ee992efaf46016be1ebf0876a59ff.ann": {
+        "Body_Part": "1",
+        "Disease": "1",
+        "Procedure": "2",
+        "Finding": "1"
+    },
+    "resources/annotations\\0061fbc2b7873cc48784edf012fddf0f.ann": {
+        "Disease": "2",
+        "Body_Part": "4",
+        "Abbreviation": "2",
+        "Finding": "4"
+    },
+    "resources/annotations\\00659d693aa98e44a32be9e4451dafa2.ann": {
+        "Body_Part": "4",
+        "Procedure": "2",
+        "Finding": "2"
+    },
+    "resources/annotations\\006644021ec77331859a505e2b350688.ann": {
+        "Body_Part": "2",
+        "Procedure": "1",
+        "Finding": "1"
+    },
+    "resources/annotations\\0074b1021e0f23f3e9baf8583d08b232.ann": {
+        "Abbreviation": "3",
+        "Body_Part": "3",
+        "Finding": "3",
+        "Disease": "1"
+    },
+    "resources/annotations\\00823f3e161f04cf16e9bccf14f41ac0.ann": {
+        "Abbreviation": "1",
+        "Body_Part": "2",
+        "Medication": "1",
+        "Disease": "2",
+        "Finding": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\008cf4e4bd2a8290d04274ddab5e1af7.ann": {
+        "Body_Part": "2",
+        "Finding": "3"
+    },
+    "resources/annotations\\00b62af645dde53562c85d4545329f38.ann": {
+        "Abbreviation": "2",
+        "Body_Part": "1",
+        "Disease": "1",
+        "Finding": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\00e65bdb5d617e9414f259afd8b6973f.ann": {
+        "Abbreviation": "3",
+        "Body_Part": "3",
+        "Finding": "3",
+        "Procedure": "1"
+    },
+    "resources/annotations\\011cb617ce90c3b05ee85d535e9a6759.ann": {
+        "Disease": "4",
+        "Abbreviation": "2",
+        "Body_Part": "1",
+        "Procedure": "1",
+        "Medication": "2"
+    },
+    "resources/annotations\\013c095db927f2d7eb457b17b0c7076c.ann": {
+        "Finding": "3",
+        "Body_Part": "1",
+        "Disease": "1"
+    },
+    "resources/annotations\\0161c3f8f8e914b67f17be19bca6fec1.ann": {
+        "Abbreviation": "1",
+        "Body_Part": "4",
+        "Finding": "2",
+        "Disease": "1"
+    },
+    "resources/annotations\\0172d9ea10fde39794b1993af462ad2e.ann": {
+        "Body_Part": "1",
+        "Abbreviation": "1",
+        "Procedure": "2",
+        "Disease": "1"
+    },
+    "resources/annotations\\01814dab2813e14acbe93e01ac331b9d.ann": {
+        "Body_Part": "2",
+        "Procedure": "2",
+        "Finding": "4"
+    },
+    "resources/annotations\\019b093b783669ab4dea4854dce809ec.ann": {
+        "Body_Part": "4",
+        "Disease": "1",
+        "Abbreviation": "1",
+        "Finding": "4"
+    },
+    "resources/annotations\\019fd0745f3872911a8f56c3aabd3f83.ann": {
+        "Body_Part": "3",
+        "Disease": "2",
+        "Abbreviation": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\01acc13ffc0cfa8f56244ddbaa955432.ann": {
+        "Finding": "3",
+        "Body_Part": "4",
+        "Abbreviation": "2"
+    },
+    "resources/annotations\\01cd9f29ca4b2918101606a98093569a.ann": {
+        "Disease": "3",
+        "Abbreviation": "1",
+        "Finding": "1",
+        "Procedure": "1",
+        "Body_Part": "1"
+    },
+    "resources/annotations\\01d71b6a8fa2802b0c1c02a71b75e355.ann": {
+        "Disease": "3",
+        "Abbreviation": "2",
+        "Body_Part": "1"
+    },
+    "resources/annotations\\01e370ac042c9787d0eaa4b5186e03ed.ann": {
+        "Disease": "2",
+        "Abbreviation": "1",
+        "Finding": "3",
+        "Body_Part": "1"
+    },
+    "resources/annotations\\01f945ab361077cba24de8275e8e9650.ann": {
+        "Abbreviation": "3",
+        "Body_Part": "1",
+        "Disease": "1",
+        "Finding": "4"
+    },
+    "resources/annotations\\020638db5a0b5740b8bec67643ae2e2c.ann": {
+        "Finding": "2",
+        "Disease": "1"
+    },
+    "resources/annotations\\02561b5cc8c112993b4a91f95f3a302e.ann": {
+        "Body_Part": "1",
+        "Disease": "1",
+        "Finding": "2",
+        "Procedure": "2"
+    },
+    "resources/annotations\\02947cc9b092b2d5c9c077aabde485a8.ann": {
+        "Abbreviation": "1",
+        "Disease": "2",
+        "Procedure": "1"
+    },
+    "resources/annotations\\02b282e7b39d2658f97b21e7debe7479.ann": {
+        "Abbreviation": "1",
+        "Body_Part": "1",
+        "Disease": "1",
+        "Finding": "2"
+    },
+    "resources/annotations\\02c3d76ae3ac28a6485e17bd05fd31ea.ann": {
+        "Disease": "1",
+        "Finding": "1"
+    },
+    "resources/annotations\\02d85fcc5c9af957b78bc8148e0f38f4.ann": {
+        "Finding": "1",
+        "Body_Part": "2",
+        "Procedure": "3"
+    },
+    "resources/annotations\\02f4e168045c717e8a4e477ef91ca8c4.ann": {
+        "Abbreviation": "1",
+        "Finding": "2",
+        "Disease": "2"
+    },
+    "resources/annotations\\02f796a7d7272e194aa5e46f65c87b92.ann": {
+        "Body_Part": "1",
+        "Abbreviation": "2",
+        "Finding": "1"
+    },
+    "resources/annotations\\032f763c3761d9375de5444f6e23b85b.ann": {
+        "Abbreviation": "3",
+        "Body_Part": "2",
+        "Procedure": "2",
+        "Disease": "1",
+        "Medication": "1",
+        "Finding": "2"
+    },
+    "resources/annotations\\0356d0739501dd2f53313f9abfce79e2.ann": {
+        "Abbreviation": "2",
+        "Body_Part": "2",
+        "Disease": "2",
+        "Procedure": "1",
+        "Finding": "1"
+    },
+    "resources/annotations\\035de8928d22d0dba7b83d6c3793ac56.ann": {
+        "Body_Part": "2",
+        "Finding": "6"
+    },
+    "resources/annotations\\03609f14c0f3c773271bcdfa97e7aeca.ann": {
+        "Abbreviation": "4",
+        "Disease": "2",
+        "Procedure": "1"
+    },
+    "resources/annotations\\036462ee7fd7f31f0bea45ddaf1ec313.ann": {
+        "Body_Part": "1",
+        "Disease": "1",
+        "Finding": "2"
+    },
+    "resources/annotations\\036e73d8160776d8d965ea6097303f22.ann": {
+        "Disease": "4",
+        "Body_Part": "2"
+    },
+    "resources/annotations\\0384cdf6ca9b064ad626d14e3a147a98.ann": {
+        "Body_Part": "2",
+        "Disease": "2",
+        "Finding": "1"
+    },
+    "resources/annotations\\03a2cf454e64c8fea07f6a2532a0d66c.ann": {
+        "Body_Part": "2",
+        "Disease": "2",
+        "Finding": "1",
+        "Procedure": "1",
+        "Medication": "2"
+    },
+    "resources/annotations\\03c4f8f1253fc3f97fb5218d8a7e7e65.ann": {
+        "Disease": "5",
+        "Abbreviation": "2",
+        "Body_Part": "1"
+    },
+    "resources/annotations\\03d285929a824119caec3728430b7b26.ann": {
+        "Body_Part": "1",
+        "Disease": "1",
+        "Finding": "3"
+    },
+    "resources/annotations\\03e7ca0d1cc66ff799a94bd61bcd8dea.ann": {
+        "Abbreviation": "1",
+        "Disease": "1",
+        "Procedure": "2",
+        "Finding": "2"
+    },
+    "resources/annotations\\0408bf75bc1f1c9a1a718a4c6f83bc66.ann": {
+        "Finding": "3",
+        "Disease": "1"
+    },
+    "resources/annotations\\040967d8fcd7b1216f5508e6247feb56.ann": {
+        "Abbreviation": "1",
+        "Body_Part": "2",
+        "Disease": "3",
+        "Procedure": "2"
+    },
+    "resources/annotations\\0422dd7dd1c57687856bf330eb7765ce.ann": {
+        "Body_Part": "2",
+        "Abbreviation": "1",
+        "Finding": "3"
+    },
+    "resources/annotations\\04291335356a4a90116876ecbdf1c744.ann": {
+        "Body_Part": "1",
+        "Abbreviation": "1",
+        "Disease": "3",
+        "Finding": "2"
+    },
+    "resources/annotations\\042ddd334135620ec91e256ee9ea566f.ann": {
+        "Body_Part": "4",
+        "Abbreviation": "4",
+        "Disease": "2",
+        "Finding": "4"
+    },
+    "resources/annotations\\042f1c988d3a6e0d3691b2a5a783227d.ann": {
+        "Abbreviation": "1",
+        "Body_Part": "1",
+        "Medication": "1",
+        "Disease": "1",
+        "Procedure": "1",
+        "Finding": "1"
+    },
+    "resources/annotations\\044987a05d879c47e0792a18e00d7a65.ann": {
+        "Disease": "3",
+        "Body_Part": "3",
+        "Abbreviation": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\0459de398a43b3388b44e7f637d8a4b2.ann": {
+        "Body_Part": "4",
+        "Finding": "3"
+    },
+    "resources/annotations\\045b419e5b2d078ba6ad7caed96ffa16.ann": {
+        "Disease": "4",
+        "Abbreviation": "1",
+        "Finding": "2",
+        "Procedure": "1",
+        "Body_Part": "3"
+    },
+    "resources/annotations\\0491a17b2b0af06cff28b94903d0205c.ann": {
+        "Disease": "1",
+        "Body_Part": "3",
+        "Finding": "4",
+        "Procedure": "1",
+        "Medication": "1"
+    },
+    "resources/annotations\\049d94b2c5c7465e676481e2e1828968.ann": {
+        "Abbreviation": "2",
+        "Body_Part": "2",
+        "Disease": "2",
+        "Finding": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\04a1055f0e70fc107a023d942f8f2691.ann": {
+        "Finding": "2",
+        "Disease": "2",
+        "Abbreviation": "1"
+    },
+    "resources/annotations\\04b39d1e912b3a7febd1e597db17d72e.ann": {
+        "Abbreviation": "2",
+        "Disease": "2",
+        "Procedure": "1",
+        "Finding": "1"
+    },
+    "resources/annotations\\04ba7ac35ad4c2188ca1bbf1213664c1.ann": {
+        "Finding": "2",
+        "Disease": "2"
+    },
+    "resources/annotations\\04bb4d78333c669305b013f8fd63c92f.ann": {
+        "Body_Part": "2",
+        "Procedure": "2",
+        "Disease": "3"
+    },
+    "resources/annotations\\04e19a8a8a48055ed336ba1bf32a943e.ann": {
+        "Finding": "2",
+        "Disease": "3"
+    },
+    "resources/annotations\\0507a6d9a92e1807a4fc24a3ced4be56.ann": {
+        "Body_Part": "1",
+        "Finding": "3"
+    },
+    "resources/annotations\\055c62804ffac10bae352ffe9bbd49e6.ann": {
+        "Abbreviation": "2",
+        "Body_Part": "2",
+        "Disease": "3",
+        "Finding": "2",
+        "Procedure": "1"
+    },
+    "resources/annotations\\056345b252389697e6c6c35b2f0dc793.ann": {
+        "Disease": "1",
+        "Finding": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\0566218bf5b4159d96e3025e81fa292a.ann": {
+        "Body_Part": "4",
+        "Abbreviation": "5",
+        "Disease": "2",
+        "Finding": "3"
+    },
+    "resources/annotations\\057513d12d84b5538f9f0892bc06b18f.ann": {
+        "Disease": "2",
+        "Finding": "2"
+    },
+    "resources/annotations\\057e8f2a4a0b087747d1fa40cb7627ab.ann": {
+        "Abbreviation": "1",
+        "Body_Part": "1",
+        "Disease": "3",
+        "Finding": "1",
+        "Procedure": "2"
+    },
+    "resources/annotations\\059656467486962b27d13d04f79af186.ann": {
+        "Body_Part": "6",
+        "Abbreviation": "1",
+        "Disease": "5",
+        "Finding": "4",
+        "Procedure": "2"
+    },
+    "resources/annotations\\05a15780d482a5b9803519a16906c205.ann": {
+        "Body_Part": "3",
+        "Abbreviation": "5",
+        "Finding": "3",
+        "Procedure": "1"
+    },
+    "resources/annotations\\05a4f97b8b5b785f51b68999d3094b22.ann": {
+        "Body_Part": "1",
+        "Abbreviation": "2",
+        "Medication": "1",
+        "Procedure": "1",
+        "Finding": "2"
+    },
+    "resources/annotations\\05ac201b8eb043f9fbf3e23750910e01.ann": {
+        "Disease": "2",
+        "Abbreviation": "1",
+        "Body_Part": "1"
+    },
+    "resources/annotations\\05c566e24fbbc6606311a9218fc2fa36.ann": {
+        "Finding": "4",
+        "Abbreviation": "1",
+        "Body_Part": "1"
+    },
+    "resources/annotations\\05fefe2949008ea6692d8bfb83872dd9.ann": {
+        "Disease": "3",
+        "Abbreviation": "1",
+        "Body_Part": "1",
+        "Finding": "1"
+    },
+    "resources/annotations\\06052eab4e02373b37cb6c0c85bdb81c.ann": {
+        "Disease": "4"
+    },
+    "resources/annotations\\060f17fe1573f4b3a1fdfdfdd08778da.ann": {
+        "Disease": "3",
+        "Abbreviation": "2",
+        "Finding": "3"
+    },
+    "resources/annotations\\0624e9876e435d16128a3d7f94bf8c96.ann": {
+        "Disease": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\062c4345e02b90b25746d9edb6d0f066.ann": {
+        "Disease": "2",
+        "Finding": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\063d773abc0156f34966a9ee2abc4dcb.ann": {
+        "Disease": "3",
+        "Body_Part": "5",
+        "Abbreviation": "1",
+        "Finding": "2"
+    },
+    "resources/annotations\\0657ca15725e8c718c729d1287d079fe.ann": {
+        "Body_Part": "3",
+        "Abbreviation": "1",
+        "Procedure": "1",
+        "Disease": "3"
+    },
+    "resources/annotations\\06b5eb5399856bddfed1f754996d7e8b.ann": {
+        "Body_Part": "4",
+        "Abbreviation": "5",
+        "Disease": "2",
+        "Finding": "2",
+        "Procedure": "1"
+    },
+    "resources/annotations\\06c8964181bc7b5e2d9b8257afc6a156.ann": {
+        "Disease": "4",
+        "Abbreviation": "3",
+        "Procedure": "1",
+        "Body_Part": "1"
+    },
+    "resources/annotations\\06cdf1d00270f8916cca2c7eef0ddba9.ann": {
+        "Body_Part": "1",
+        "Finding": "2",
+        "Disease": "3"
+    },
+    "resources/annotations\\0724e09058ce25cdfcceccf25765ca8d.ann": {
+        "Abbreviation": "1",
+        "Disease": "2",
+        "Procedure": "1"
+    },
+    "resources/annotations\\0754c168d79fba6af01129c5c909ad9e.ann": {
+        "Abbreviation": "1",
+        "Body_Part": "3",
+        "Disease": "1",
+        "Finding": "1"
+    },
+    "resources/annotations\\07586018dc9b59f80b34b1c7a3c18d85.ann": {
+        "Procedure": "1",
+        "Body_Part": "2",
+        "Finding": "2",
+        "Disease": "1"
+    },
+    "resources/annotations\\075da4f1e6267a7e02ca19e008cf6ffa.ann": {
+        "Abbreviation": "1",
+        "Body_Part": "1",
+        "Disease": "3",
+        "Procedure": "1"
+    },
+    "resources/annotations\\0787dafed1a60ea249ab09897a4f470c.ann": {
+        "Body_Part": "1",
+        "Abbreviation": "1",
+        "Disease": "2",
+        "Finding": "2"
+    },
+    "resources/annotations\\07aee132e2585f31647733a35a61810d.ann": {
+        "Body_Part": "3",
+        "Procedure": "1",
+        "Finding": "3"
+    },
+    "resources/annotations\\07cbda3c61114158152a2f35edcae3fd.ann": {
+        "Body_Part": "3",
+        "Abbreviation": "2",
+        "Disease": "1",
+        "Finding": "5",
+        "Procedure": "1"
+    },
+    "resources/annotations\\07e379bc3dff25065da1b97e6c310f26.ann": {
+        "Abbreviation": "2",
+        "Body_Part": "1",
+        "Disease": "3",
+        "Procedure": "1"
+    },
+    "resources/annotations\\07f45cd6555ab77eec5a8df2972c4246.ann": {
+        "Disease": "3",
+        "Abbreviation": "1",
+        "Finding": "2"
+    },
+    "resources/annotations\\07f91fc239ebf8ee461ccd63cfd0b440.ann": {
+        "Abbreviation": "2",
+        "Body_Part": "1",
+        "Procedure": "1",
+        "Disease": "1"
+    },
+    "resources/annotations\\0821bf048c2ea31a6cc98d7b60645e73.ann": {
+        "Abbreviation": "1",
+        "Body_Part": "2",
+        "Procedure": "1",
+        "Finding": "3"
+    },
+    "resources/annotations\\083a65c77efbc7a9499f9393345e1ca1.ann": {
+        "Abbreviation": "1",
+        "Procedure": "2",
+        "Body_Part": "1"
+    },
+    "resources/annotations\\084d08e60c1ba5a173505d9d805e5332.ann": {
+        "Disease": "3",
+        "Abbreviation": "2",
+        "Finding": "1",
+        "Body_Part": "1"
+    },
+    "resources/annotations\\084f19ef7cbe6163c3cf7422756d646c.ann": {
+        "Disease": "2",
+        "Abbreviation": "3",
+        "Procedure": "4",
+        "Finding": "2",
+        "Body_Part": "2"
+    },
+    "resources/annotations\\0859b0ec4d9294a193cc428e0c279f64.ann": {
+        "Body_Part": "2",
+        "Disease": "1",
+        "Procedure": "2",
+        "Finding": "1"
+    },
+    "resources/annotations\\0863140c79f4ff82f74ce81afc603fab.ann": {
+        "Body_Part": "2",
+        "Disease": "2",
+        "Finding": "2"
+    },
+    "resources/annotations\\087572a0c370d9fa9e00374dcdf25262.ann": {
+        "Body_Part": "2",
+        "Finding": "2",
+        "Disease": "1"
+    },
+    "resources/annotations\\087feee0c2eb50362349698efe5a665e.ann": {
+        "Body_Part": "1",
+        "Abbreviation": "1",
+        "Disease": "3",
+        "Procedure": "1"
+    },
+    "resources/annotations\\0880997706d1f931f280f9d64aa95103.ann": {
+        "Abbreviation": "1",
+        "Disease": "4",
+        "Finding": "2"
+    },
+    "resources/annotations\\08b9a1aa01f815c76d90908c0421aaea.ann": {
+        "Abbreviation": "1",
+        "Body_Part": "3",
+        "Finding": "3",
+        "Procedure": "1"
+    },
+    "resources/annotations\\08cebbe3c28aaf08e91bd324f1beed8a.ann": {
+        "Disease": "2",
+        "Abbreviation": "2",
+        "Procedure": "1",
+        "Body_Part": "1",
+        "Finding": "1"
+    },
+    "resources/annotations\\08e014d625b11e9a27e6b4a53c310412.ann": {
+        "Body_Part": "3",
+        "Abbreviation": "2",
+        "Disease": "4",
+        "Finding": "2"
+    },
+    "resources/annotations\\08e50a43e13f00712af4b16a15944c60.ann": {
+        "Body_Part": "2",
+        "Disease": "1",
+        "Finding": "1"
+    },
+    "resources/annotations\\08f6b85f0ee7b08fc9de3ed65c92734b.ann": {
+        "Body_Part": "2",
+        "Finding": "2",
+        "Procedure": "1"
+    },
+    "resources/annotations\\0904b850a13d84b9c118ea09143d5f54.ann": {
+        "Disease": "1",
+        "Body_Part": "2",
+        "Finding": "3",
+        "Procedure": "1"
+    },
+    "resources/annotations\\091d85e50bf3026d853d5bd0ab8d90c2.ann": {
+        "Abbreviation": "2",
+        "Disease": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\0950b8bb98133e7e89fb3d0731d92fcd.ann": {
+        "Disease": "2",
+        "Finding": "2"
+    },
+    "resources/annotations\\095741bc85e783ca7c8219f8340edd44.ann": {
+        "Body_Part": "1",
+        "Finding": "2"
+    },
+    "resources/annotations\\0957c5a97021e3c6248f4ce5ccf8c887.ann": {
+        "Disease": "1",
+        "Finding": "3"
+    },
+    "resources/annotations\\0964bef8cd62950dd0b4760bf242faa6.ann": {
+        "Abbreviation": "3",
+        "Body_Part": "1",
+        "Finding": "4"
+    },
+    "resources/annotations\\09750f86f1ced8cd304acf3b158db896.ann": {
+        "Body_Part": "3",
+        "Procedure": "3",
+        "Disease": "1"
+    },
+    "resources/annotations\\0983fc91181cc8cddf075cb718fb9e31.ann": {
+        "Body_Part": "2",
+        "Abbreviation": "1",
+        "Disease": "2",
+        "Finding": "2",
+        "Procedure": "1"
+    },
+    "resources/annotations\\098aa8409c67beaffa97af7701573dd2.ann": {
+        "Disease": "1",
+        "Abbreviation": "1",
+        "Body_Part": "2",
+        "Finding": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\0998c5d72f31d43a9f371e5f09145973.ann": {
+        "Disease": "3",
+        "Body_Part": "3",
+        "Procedure": "1",
+        "Medication": "1",
+        "Finding": "2",
+        "Abbreviation": "1"
+    },
+    "resources/annotations\\09b1783638ad53be943d50f6341d4757.ann": {
+        "Body_Part": "5",
+        "Abbreviation": "1",
+        "Disease": "2",
+        "Finding": "3",
+        "Procedure": "2"
+    },
+    "resources/annotations\\09d1aa5ec19d1751f8c6876d05b89d88.ann": {
+        "Abbreviation": "3",
+        "Finding": "2",
+        "Procedure": "2",
+        "Disease": "1"
+    },
+    "resources/annotations\\09f0e73c5eac988fe7f66f2d25893d4a.ann": {
+        "Abbreviation": "1",
+        "Disease": "1",
+        "Finding": "2"
+    },
+    "resources/annotations\\0a072b4889bb676a4ed2eecf2c9bcf8d.ann": {
+        "Body_Part": "3",
+        "Abbreviation": "2",
+        "Disease": "2",
+        "Finding": "2"
+    },
+    "resources/annotations\\0a07dda2b377efcf2d58f4ea398ff0fa.ann": {
+        "Abbreviation": "2",
+        "Body_Part": "3",
+        "Finding": "3"
+    },
+    "resources/annotations\\0a14f9b6f4a4d40f179da180a42a48bc.ann": {
+        "Body_Part": "2",
+        "Medication": "1",
+        "Abbreviation": "1",
+        "Finding": "3",
+        "Procedure": "1"
+    },
+    "resources/annotations\\0a39763b7da63a54d376d7af300a781b.ann": {
+        "Disease": "4",
+        "Abbreviation": "1",
+        "Body_Part": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\0a4816f1c117e0f4c650b00161877e4c.ann": {
+        "Disease": "2",
+        "Finding": "1",
+        "Abbreviation": "1"
+    },
+    "resources/annotations\\0a55876fb5053037f7a3b1ebab8e4b64.ann": {
+        "Body_Part": "1",
+        "Abbreviation": "1",
+        "Disease": "1",
+        "Finding": "1"
+    },
+    "resources/annotations\\0a57092435e9f79ea0609fa7d074e67a.ann": {
+        "Body_Part": "1",
+        "Abbreviation": "1",
+        "Medication": "1",
+        "Disease": "2",
+        "Finding": "3",
+        "Procedure": "1"
+    },
+    "resources/annotations\\0a764c81a7402f11c89b5c5a7f60072f.ann": {
+        "Abbreviation": "1",
+        "Body_Part": "1",
+        "Disease": "3",
+        "Finding": "2",
+        "Procedure": "1"
+    },
+    "resources/annotations\\0a91e21dd196779ebdda6e5047b4156a.ann": {
+        "Disease": "2",
+        "Finding": "2",
+        "Procedure": "1",
+        "Abbreviation": "1"
+    },
+    "resources/annotations\\0aac5034971bbb862913e3a0f786cdc1.ann": {
+        "Disease": "1",
+        "Finding": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\0ab47483c0306996f2a33bfcecf49cf3.ann": {
+        "Abbreviation": "2",
+        "Body_Part": "2",
+        "Finding": "5"
+    },
+    "resources/annotations\\0ad40f24bcf060ff9cfc8efe70e9de64.ann": {
+        "Abbreviation": "3",
+        "Body_Part": "1",
+        "Medication": "1",
+        "Disease": "3",
+        "Procedure": "2"
+    },
+    "resources/annotations\\0ae65891dbdea057f3747d8b8f228774.ann": {
+        "Disease": "3",
+        "Body_Part": "3",
+        "Abbreviation": "1",
+        "Finding": "2"
+    },
+    "resources/annotations\\0aed55198995a9f92e84ee0af15ddbfe.ann": {
+        "Abbreviation": "2",
+        "Body_Part": "2",
+        "Disease": "3",
+        "Procedure": "2"
+    },
+    "resources/annotations\\0aff4d0a4f4c62788edfa64700f7cf15.ann": {
+        "Disease": "3",
+        "Abbreviation": "2",
+        "Procedure": "1",
+        "Body_Part": "1"
+    },
+    "resources/annotations\\0b128a58a5504fe95600a7269a49058d.ann": {
+        "Abbreviation": "4",
+        "Body_Part": "2",
+        "Disease": "1",
+        "Finding": "2"
+    },
+    "resources/annotations\\0b16bfccf33d6cfa731a37ff0589161e.ann": {
+        "Disease": "1",
+        "Finding": "2"
+    },
+    "resources/annotations\\0b28553774d920c80df19cb7bdc2252a.ann": {
+        "Body_Part": "3",
+        "Abbreviation": "1",
+        "Disease": "1",
+        "Finding": "2"
+    },
+    "resources/annotations\\0b2fcd9d867b12bbdd1d545dbc7734a4.ann": {
+        "Body_Part": "1",
+        "Procedure": "1",
+        "Disease": "1"
+    },
+    "resources/annotations\\0b5096bc438381fa54ab549b50aef3dc.ann": {
+        "Body_Part": "1",
+        "Abbreviation": "5",
+        "Medication": "1",
+        "Finding": "1",
+        "Procedure": "2"
+    },
+    "resources/annotations\\0b5fd0341ecafac4e2bdfa8936ed6666.ann": {
+        "Abbreviation": "3",
+        "Body_Part": "2",
+        "Disease": "3",
+        "Finding": "1",
+        "Procedure": "2"
+    },
+    "resources/annotations\\0b62ef5cf7ab4692d92e660032829a1a.ann": {
+        "Body_Part": "2",
+        "Abbreviation": "2",
+        "Finding": "2",
+        "Disease": "2",
+        "Procedure": "1"
+    },
+    "resources/annotations\\0b694844a4b44b8c76177c031947b993.ann": {
+        "Disease": "1",
+        "Abbreviation": "1",
+        "Finding": "3",
+        "Body_Part": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\0b9385e97fd53b0748ee387d57027fc6.ann": {
+        "Abbreviation": "1",
+        "Body_Part": "1",
+        "Finding": "2",
+        "Procedure": "1"
+    },
+    "resources/annotations\\0ba89e726c00403aa65a01fb092fa182.ann": {
+        "Body_Part": "2",
+        "Abbreviation": "2",
+        "Finding": "1",
+        "Disease": "1"
+    },
+    "resources/annotations\\0bc54ed329c9fb61e5db281899001745.ann": {
+        "Abbreviation": "1",
+        "Finding": "2",
+        "Body_Part": "1",
+        "Disease": "1"
+    },
+    "resources/annotations\\0bcda1dbddc5e304f720e63c36ad87d8.ann": {
+        "Body_Part": "3",
+        "Abbreviation": "3",
+        "Disease": "1",
+        "Finding": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\0c272028d2e83b5a37ac3223b03d4ea8.ann": {
+        "Disease": "2",
+        "Finding": "3",
+        "Abbreviation": "1",
+        "Body_Part": "3"
+    },
+    "resources/annotations\\0c3909cc8aee340d3e067d95bd354428.ann": {
+        "Disease": "3",
+        "Abbreviation": "2",
+        "Finding": "2"
+    },
+    "resources/annotations\\0c40713888bccf3ef36f7216f5a6080b.ann": {
+        "Finding": "2",
+        "Disease": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\0c4a592b9c7a382784456e6786e9187f.ann": {
+        "Body_Part": "3",
+        "Abbreviation": "5",
+        "Disease": "4",
+        "Finding": "2"
+    },
+    "resources/annotations\\0c4a8a49de426cc06fa9fe38acd1ec14.ann": {
+        "Disease": "2",
+        "Abbreviation": "2",
+        "Body_Part": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\0c4e33eae36abf220eb4c334ecda3d5a.ann": {
+        "Body_Part": "2",
+        "Abbreviation": "2",
+        "Disease": "3",
+        "Finding": "2"
+    },
+    "resources/annotations\\0c4eb9bdc3e7a6aa048fb2241231d923.ann": {
+        "Body_Part": "1",
+        "Abbreviation": "1",
+        "Procedure": "2"
+    },
+    "resources/annotations\\0c5021df45e3076d75c9773f9ce8d78b.ann": {
+        "Disease": "1",
+        "Body_Part": "1",
+        "Finding": "2"
+    },
+    "resources/annotations\\0c62f76666ab20439fb033cb7a0233a9.ann": {
+        "Body_Part": "1",
+        "Abbreviation": "1",
+        "Finding": "1",
+        "Disease": "2"
+    },
+    "resources/annotations\\0c725fb43beb09bb3304f21fe76d9fd1.ann": {
+        "Body_Part": "2",
+        "Finding": "3",
+        "Disease": "1"
+    },
+    "resources/annotations\\0c83fc3cbf9f9d732dfaf12851301092.ann": {
+        "Body_Part": "2",
+        "Finding": "1",
+        "Disease": "2"
+    },
+    "resources/annotations\\0c8a80709638ce092273706a5b3a1229.ann": {
+        "Body_Part": "2",
+        "Finding": "2",
+        "Disease": "1"
+    },
+    "resources/annotations\\0ca5b06224fc05822a1ca2d963fc7aa3.ann": {
+        "Disease": "2",
+        "Procedure": "2"
+    },
+    "resources/annotations\\0cb3f58efb8389ea82bd5eb3db698f8b.ann": {
+        "Body_Part": "2",
+        "Abbreviation": "4",
+        "Finding": "3"
+    },
+    "resources/annotations\\0ce3fd9999ca6c4c470e2c94f34b8d94.ann": {
+        "Body_Part": "4",
+        "Abbreviation": "1",
+        "Disease": "2",
+        "Finding": "2",
+        "Procedure": "1"
+    },
+    "resources/annotations\\0ceadc4aaabe3529bacbaa7f1a89bf41.ann": {
+        "Abbreviation": "1",
+        "Body_Part": "1",
+        "Disease": "3"
+    },
+    "resources/annotations\\0ceb95801cb5967dbd187e57683a7f94.ann": {
+        "Finding": "1",
+        "Abbreviation": "3",
+        "Body_Part": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\0cf36c5232be2b1da2ed478c54761011.ann": {
+        "Disease": "2",
+        "Abbreviation": "1",
+        "Body_Part": "2"
+    },
+    "resources/annotations\\0cf640f1ec1e250f3db0a7379f2d40a6.ann": {
+        "Disease": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\0d0fd605687b23cd6541cbcb8fce67a4.ann": {
+        "Abbreviation": "3",
+        "Body_Part": "1",
+        "Medication": "1",
+        "Disease": "2",
+        "Finding": "2",
+        "Procedure": "2"
+    },
+    "resources/annotations\\0d1251b984918cbb7bd8cccf43686652.ann": {
+        "Body_Part": "2",
+        "Abbreviation": "1",
+        "Disease": "4"
+    },
+    "resources/annotations\\0d347cbbf6d4da1e2509c06fd51c388b.ann": {
+        "Abbreviation": "1",
+        "Medication": "1",
+        "Disease": "2",
+        "Finding": "3",
+        "Procedure": "1"
+    },
+    "resources/annotations\\0d5d59947bd5c4cb8c888417fb83160d.ann": {
+        "Body_Part": "3",
+        "Finding": "1"
+    },
+    "resources/annotations\\0d657fd51603113ef8bb68541d01089e.ann": {
+        "Body_Part": "3",
+        "Procedure": "1",
+        "Finding": "2",
+        "Disease": "1"
+    },
+    "resources/annotations\\0d819418ef9819461570ff9610824e18.ann": {
+        "Disease": "1",
+        "Abbreviation": "1",
+        "Body_Part": "1",
+        "Finding": "1",
+        "Procedure": "2"
+    },
+    "resources/annotations\\0d8b78232eb3532e5d71a15cebb1b07e.ann": {
+        "Abbreviation": "2",
+        "Disease": "2",
+        "Procedure": "1"
+    },
+    "resources/annotations\\0da10023c0ec65e94a18e06093682f25.ann": {
+        "Abbreviation": "2",
+        "Body_Part": "1",
+        "Disease": "1",
+        "Procedure": "3"
+    },
+    "resources/annotations\\0dea04de7de9d814781307bf8d9f7502.ann": {
+        "Disease": "2",
+        "Body_Part": "3",
+        "Abbreviation": "2",
+        "Finding": "2"
+    },
+    "resources/annotations\\0deb80f52a62ee1624735313beec395c.ann": {
+        "Disease": "2",
+        "Procedure": "1",
+        "Body_Part": "1",
+        "Medication": "1",
+        "Abbreviation": "1"
+    },
+    "resources/annotations\\0e0730fe7849ee44046f2d26fef4c4ac.ann": {
+        "Body_Part": "1",
+        "Disease": "3",
+        "Finding": "1"
+    },
+    "resources/annotations\\0e0b50a9b6ce253e4a7f22021f893832.ann": {
+        "Disease": "3",
+        "Abbreviation": "2",
+        "Body_Part": "3",
+        "Finding": "2"
+    },
+    "resources/annotations\\0e359447e5d5991d2db8014035c2daeb.ann": {
+        "Abbreviation": "1",
+        "Body_Part": "1",
+        "Disease": "3",
+        "Finding": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\0e37a6e324b444f9e354c4a7ff5209f9.ann": {
+        "Finding": "3",
+        "Body_Part": "3"
+    },
+    "resources/annotations\\0e5e8d705d0f014fd36341c74d91294e.ann": {
+        "Disease": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\0e5f0d62f0e5c823e04bb0d357509791.ann": {
+        "Abbreviation": "1",
+        "Body_Part": "5",
+        "Finding": "4",
+        "Procedure": "2"
+    },
+    "resources/annotations\\0e9cde1150dd69ce320d2ef78c0d80cb.ann": {
+        "Body_Part": "2",
+        "Procedure": "2",
+        "Disease": "2",
+        "Finding": "2"
+    },
+    "resources/annotations\\0eb394350bf86165fb68e092e70d83c8.ann": {
+        "Abbreviation": "2",
+        "Body_Part": "1",
+        "Finding": "3"
+    },
+    "resources/annotations\\0ebb6a2ce5c2a91a344ef40d4f46566c.ann": {
+        "Disease": "2",
+        "Abbreviation": "1",
+        "Procedure": "1",
+        "Body_Part": "2",
+        "Finding": "1"
+    },
+    "resources/annotations\\0ebeabe71f2c26ff023569f6e15664f7.ann": {
+        "Abbreviation": "1",
+        "Finding": "2",
+        "Disease": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\0ee0e1d700cc2da2d9771196217e4c39.ann": {
+        "Body_Part": "2",
+        "Abbreviation": "3",
+        "Disease": "1",
+        "Procedure": "2"
+    },
+    "resources/annotations\\0ee70c97b722808d7c365bb72bbf0cd6.ann": {
+        "Abbreviation": "1",
+        "Body_Part": "1",
+        "Disease": "2",
+        "Finding": "1"
+    },
+    "resources/annotations\\0f015b63e1dac53c85f9803ef099840d.ann": {
+        "Body_Part": "1",
+        "Abbreviation": "4",
+        "Disease": "4",
+        "Procedure": "2",
+        "Finding": "2"
+    },
+    "resources/annotations\\0f0501f17b4f86027c006eaa08da66af.ann": {
+        "Body_Part": "1",
+        "Procedure": "3",
+        "Finding": "1"
+    },
+    "resources/annotations\\0f08b6cdd3a7d47f6f73516be63b3e01.ann": {
+        "Disease": "2",
+        "Finding": "2",
+        "Body_Part": "2",
+        "Procedure": "2",
+        "Abbreviation": "1"
+    },
+    "resources/annotations\\0f160c9f4badd3ffeae55154de666b40.ann": {
+        "Disease": "2",
+        "Finding": "1"
+    },
+    "resources/annotations\\0f25ea8ce3a318e7367562ffb434e639.ann": {
+        "Body_Part": "2",
+        "Abbreviation": "2",
+        "Finding": "5"
+    },
+    "resources/annotations\\0f2f3991d56c1212213438db92fd2112.ann": {
+        "Body_Part": "2",
+        "Disease": "4"
+    },
+    "resources/annotations\\0f3e7fea5bf1bcb6d4976634a90fe6f3.ann": {
+        "Body_Part": "2",
+        "Finding": "2",
+        "Procedure": "1"
+    },
+    "resources/annotations\\0f6452641b2fc230ca1b95e55d3e42d6.ann": {
+        "Body_Part": "1",
+        "Disease": "1",
+        "Finding": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\0f7f047e8a700e6a58a8cabc8df4b4f5.ann": {
+        "Abbreviation": "1",
+        "Body_Part": "1",
+        "Disease": "2",
+        "Finding": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\0f8c481990b803b81ae2d88ab42ae734.ann": {
+        "Abbreviation": "1",
+        "Body_Part": "3",
+        "Disease": "3",
+        "Finding": "1"
+    },
+    "resources/annotations\\0f9076a2299778812d63a076ba7f079f.ann": {
+        "Abbreviation": "5",
+        "Medication": "3",
+        "Body_Part": "2",
+        "Disease": "3",
+        "Finding": "3"
+    },
+    "resources/annotations\\0fb57a9d76121ea21661655235afe1c0.ann": {
+        "Disease": "2",
+        "Procedure": "1"
+    },
+    "resources/annotations\\0fde612e3ddd04f12df8a7d911843724.ann": {
+        "Abbreviation": "2",
+        "Disease": "1",
+        "Finding": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\0ff85e4b278950fa03b6566fe0a1adaf.ann": {
+        "Abbreviation": "1",
+        "Body_Part": "1",
+        "Disease": "3",
+        "Procedure": "1"
+    },
+    "resources/annotations\\10108d5df1fd77e6bc90ca100068aece.ann": {
+        "Disease": "2",
+        "Abbreviation": "1",
+        "Finding": "3"
+    },
+    "resources/annotations\\101cd37b451cd752d28a47576be06375.ann": {
+        "Body_Part": "1",
+        "Disease": "1",
+        "Procedure": "2",
+        "Abbreviation": "1"
+    },
+    "resources/annotations\\102ad4d2d5ed605a13a18b58ce9c8b23.ann": {
+        "Body_Part": "1",
+        "Disease": "2",
+        "Finding": "2"
+    },
+    "resources/annotations\\103ae67a32adde269554267b44cb3ff3.ann": {
+        "Body_Part": "2",
+        "Abbreviation": "4",
+        "Disease": "2",
+        "Finding": "11"
+    },
+    "resources/annotations\\106718dd3f65ef668a1ccb084586e5d0.ann": {
+        "Disease": "1",
+        "Finding": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\107a089081bace7bf5dbca0c45c95b1d.ann": {
+        "Body_Part": "2",
+        "Abbreviation": "3",
+        "Finding": "2",
+        "Procedure": "1"
+    },
+    "resources/annotations\\1080fd1f5217f65980ab313df121b96d.ann": {
+        "Abbreviation": "2",
+        "Finding": "5"
+    },
+    "resources/annotations\\108e47bf0b585c2a80758953cf1528c2.ann": {
+        "Procedure": "1",
+        "Disease": "1",
+        "Finding": "1"
+    },
+    "resources/annotations\\10adfe3f458a41a63f198f31f3eca292.ann": {
+        "Abbreviation": "1",
+        "Body_Part": "1",
+        "Finding": "2",
+        "Procedure": "1"
+    },
+    "resources/annotations\\10be340625a10464bf9ca32dcfb7b5f1.ann": {
+        "Abbreviation": "1",
+        "Body_Part": "2",
+        "Disease": "2",
+        "Procedure": "4",
+        "Finding": "1"
+    },
+    "resources/annotations\\10cb2b6bec739c329394d82adc75a008.ann": {
+        "Disease": "3",
+        "Abbreviation": "1",
+        "Finding": "1",
+        "Body_Part": "3"
+    },
+    "resources/annotations\\10dacaef9fc78e694eb026d52be0b7e6.ann": {
+        "Abbreviation": "6",
+        "Procedure": "2",
+        "Body_Part": "2",
+        "Disease": "2",
+        "Finding": "2"
+    },
+    "resources/annotations\\10e352870d5132c0adb6b05c78072a2f.ann": {
+        "Finding": "1",
+        "Disease": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\10e98a610461fa09c037e632a3009b18.ann": {
+        "Abbreviation": "4",
+        "Body_Part": "1",
+        "Disease": "2"
+    },
+    "resources/annotations\\10ee5d0b1731d152ec263269ca68cea7.ann": {
+        "Body_Part": "1",
+        "Abbreviation": "1",
+        "Disease": "3",
+        "Finding": "1"
+    },
+    "resources/annotations\\10f709b18246e3102db59474abf3cd7b.ann": {
+        "Disease": "2",
+        "Abbreviation": "5",
+        "Body_Part": "1",
+        "Medication": "3",
+        "Procedure": "1"
+    },
+    "resources/annotations\\110342aa1af54d0f8ffeee2cae2f6a21.ann": {
+        "Abbreviation": "2",
+        "Body_Part": "1",
+        "Finding": "3",
+        "Disease": "1",
+        "Procedure": "2"
+    },
+    "resources/annotations\\11193b0638013d5f605a0f8931471722.ann": {
+        "Disease": "3",
+        "Finding": "4",
+        "Body_Part": "2"
+    },
+    "resources/annotations\\1125a5672fa7c8d2eb470d6dd8d5f778.ann": {
+        "Body_Part": "1",
+        "Procedure": "2",
+        "Disease": "1"
+    },
+    "resources/annotations\\112c4841d8a5d2908c1cb9d46020c7af.ann": {
+        "Finding": "1",
+        "Disease": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\1142f86a5bcca9762380b921251cbe62.ann": {
+        "Body_Part": "6",
+        "Abbreviation": "2",
+        "Disease": "2",
+        "Finding": "1",
+        "Procedure": "2"
+    },
+    "resources/annotations\\115798436727b3e40d5d1b9e871180e9.ann": {
+        "Disease": "3",
+        "Abbreviation": "2",
+        "Body_Part": "2"
+    },
+    "resources/annotations\\115c597bec96b386eb4a6b92b28460a7.ann": {
+        "Body_Part": "2",
+        "Disease": "3",
+        "Finding": "1"
+    },
+    "resources/annotations\\115ea38917d232e3dfc7b645495a470b.ann": {
+        "Abbreviation": "1",
+        "Body_Part": "1",
+        "Finding": "4",
+        "Procedure": "1"
+    },
+    "resources/annotations\\1160a2ebafc933e1558db92eebc65b6f.ann": {
+        "Body_Part": "2",
+        "Disease": "2",
+        "Finding": "2"
+    },
+    "resources/annotations\\1172324b3d9f5340d01cba53ff52fe00.ann": {
+        "Body_Part": "1",
+        "Disease": "1"
+    },
+    "resources/annotations\\1193f738abc13af0b42682fcc8cc2856.ann": {
+        "Body_Part": "1",
+        "Disease": "2",
+        "Procedure": "1",
+        "Finding": "3"
+    },
+    "resources/annotations\\11b3a2a3bde972d0d35341cfcb982fc9.ann": {
+        "Disease": "2",
+        "Finding": "5",
+        "Abbreviation": "4",
+        "Body_Part": "3",
+        "Procedure": "1"
+    },
+    "resources/annotations\\11cc0ba9872af37dcd97b88f5a6b416a.ann": {
+        "Disease": "4",
+        "Procedure": "2",
+        "Abbreviation": "1",
+        "Finding": "1",
+        "Body_Part": "1"
+    },
+    "resources/annotations\\11d978b0a56fd92a2a0181816bcd8d1f.ann": {
+        "Body_Part": "3",
+        "Abbreviation": "1",
+        "Finding": "5",
+        "Procedure": "1"
+    },
+    "resources/annotations\\11f89f9e41e309c50c4dca34e81cabfe.ann": {
+        "Abbreviation": "2",
+        "Body_Part": "1",
+        "Medication": "2",
+        "Disease": "2",
+        "Finding": "1",
+        "Procedure": "2"
+    },
+    "resources/annotations\\124c9c432bbd1a3cdd3c98ff61228bf0.ann": {
+        "Body_Part": "4",
+        "Finding": "4"
+    },
+    "resources/annotations\\129d65e93a7faf8899eac0427158d211.ann": {
+        "Abbreviation": "1",
+        "Body_Part": "1",
+        "Finding": "3",
+        "Procedure": "1"
+    },
+    "resources/annotations\\12edbd22022e53aa49902142ab229ea0.ann": {
+        "Body_Part": "1",
+        "Abbreviation": "1",
+        "Disease": "3",
+        "Finding": "3",
+        "Procedure": "1"
+    },
+    "resources/annotations\\12ef100bf7d18205b94c1feab9d0795c.ann": {
+        "Disease": "1",
+        "Body_Part": "2",
+        "Procedure": "2"
+    },
+    "resources/annotations\\12f6023592acdc60d40c36f6f828985e.ann": {
+        "Disease": "3",
+        "Abbreviation": "2",
+        "Finding": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\131d26250620ffbfcee913a0db638bbf.ann": {
+        "Body_Part": "1",
+        "Finding": "1",
+        "Disease": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\133ef38e262dd39e14978f19b1c0cbe9.ann": {
+        "Body_Part": "1",
+        "Abbreviation": "1",
+        "Disease": "1",
+        "Finding": "1"
+    },
+    "resources/annotations\\135155a1c7cdf0365f6cba603049b587.ann": {
+        "Body_Part": "2",
+        "Disease": "1",
+        "Abbreviation": "2",
+        "Procedure": "1",
+        "Finding": "1"
+    },
+    "resources/annotations\\1356a0630afeb9ad0b692a22fee2982c.ann": {
+        "Abbreviation": "1",
+        "Body_Part": "2",
+        "Disease": "5",
+        "Finding": "2",
+        "Procedure": "1"
+    },
+    "resources/annotations\\1365fa88dd27d0166434f53adfb9ef70.ann": {
+        "Disease": "2",
+        "Finding": "2"
+    },
+    "resources/annotations\\136bb1fcc3be29d6731caa561f9d20bc.ann": {
+        "Abbreviation": "3",
+        "Body_Part": "3",
+        "Disease": "3",
+        "Procedure": "1",
+        "Finding": "1"
+    },
+    "resources/annotations\\13725320d174d2c65ad9e5340987d4fe.ann": {
+        "Body_Part": "1",
+        "Finding": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\13729e035497a98d02cdc2b1e747cf70.ann": {
+        "Abbreviation": "2",
+        "Disease": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\1381253b1fa9553a9a13436ba7d1cbe5.ann": {
+        "Disease": "1",
+        "Procedure": "1",
+        "Finding": "1",
+        "Body_Part": "2"
+    },
+    "resources/annotations\\1386c77cf6e7116229d4223527bff82f.ann": {
+        "Medication": "1",
+        "Abbreviation": "2",
+        "Disease": "4",
+        "Finding": "1"
+    },
+    "resources/annotations\\138c6cb83dec2e8a883cef569bcbac1d.ann": {
+        "Body_Part": "2",
+        "Medication": "1",
+        "Finding": "6",
+        "Procedure": "1",
+        "Disease": "1"
+    },
+    "resources/annotations\\138d5fcbe8c7e5c6f5e7917011105285.ann": {
+        "Abbreviation": "1",
+        "Body_Part": "1",
+        "Disease": "4"
+    },
+    "resources/annotations\\13cbdcdb80e0918497e0a32f1b454228.ann": {
+        "Disease": "1",
+        "Finding": "1"
+    },
+    "resources/annotations\\13e58204e73c1e4e8044974a302fa802.ann": {
+        "Abbreviation": "3",
+        "Body_Part": "1",
+        "Disease": "1",
+        "Procedure": "3"
+    },
+    "resources/annotations\\13e5b2489cd2ba5a0ab861560e1288c3.ann": {
+        "Disease": "1",
+        "Procedure": "3",
+        "Finding": "3"
+    },
+    "resources/annotations\\13fbb77c88f958cb744941505ccf4a0e.ann": {
+        "Abbreviation": "1",
+        "Disease": "2",
+        "Procedure": "2"
+    },
+    "resources/annotations\\141a5ddf45e1e820334a4ed3556c51cb.ann": {
+        "Body_Part": "1",
+        "Abbreviation": "2",
+        "Disease": "3"
+    },
+    "resources/annotations\\14248c495557c28271699525358e7671.ann": {
+        "Abbreviation": "2",
+        "Body_Part": "1",
+        "Finding": "1",
+        "Disease": "6"
+    },
+    "resources/annotations\\14278c0fe7c7d89822d7514408ff5653.ann": {
+        "Body_Part": "4",
+        "Finding": "3",
+        "Procedure": "2"
+    },
+    "resources/annotations\\143f0dd25b9e68f23ed7162f0d8e1730.ann": {
+        "Body_Part": "2",
+        "Finding": "2",
+        "Disease": "2",
+        "Abbreviation": "1"
+    },
+    "resources/annotations\\1445cbc66994ccdfe6855bc7c688040f.ann": {
+        "Abbreviation": "1",
+        "Body_Part": "1",
+        "Disease": "3",
+        "Finding": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\1471c689de962fa25603f42883ffe658.ann": {
+        "Abbreviation": "1",
+        "Disease": "1",
+        "Procedure": "1",
+        "Finding": "1"
+    },
+    "resources/annotations\\147ca9d9fa385e98a20c01fd69ae656f.ann": {
+        "Body_Part": "4",
+        "Abbreviation": "1",
+        "Finding": "3",
+        "Procedure": "2",
+        "Disease": "1"
+    },
+    "resources/annotations\\149c2c1540d420d7a27ab043d56df25a.ann": {
+        "Body_Part": "2",
+        "Abbreviation": "3",
+        "Finding": "4",
+        "Disease": "1",
+        "Procedure": "2"
+    },
+    "resources/annotations\\14a461dcdc3e095857424a315587e637.ann": {
+        "Abbreviation": "2",
+        "Body_Part": "1",
+        "Disease": "3",
+        "Procedure": "1"
+    },
+    "resources/annotations\\14a5e962d666e6bb9264f76dff590beb.ann": {
+        "Body_Part": "1",
+        "Disease": "1"
+    },
+    "resources/annotations\\14ba2a5b6f3c2041e1d48049297d1ffb.ann": {
+        "Body_Part": "1",
+        "Disease": "1",
+        "Finding": "1"
+    },
+    "resources/annotations\\14cf750c61343b7ef0e505766894aa9e.ann": {
+        "Medication": "2",
+        "Abbreviation": "5",
+        "Disease": "5"
+    },
+    "resources/annotations\\14d105b0f88cd1b9b9e6c8e7c0117ebc.ann": {
+        "Body_Part": "2",
+        "Abbreviation": "3",
+        "Medication": "1",
+        "Procedure": "1",
+        "Finding": "2"
+    },
+    "resources/annotations\\14d9f4843f0ac893aa8c62070456dacc.ann": {
+        "Abbreviation": "1",
+        "Body_Part": "3",
+        "Finding": "1",
+        "Disease": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\14f749458c0f8d601d41909e3a3e7030.ann": {
+        "Disease": "1",
+        "Finding": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\151434bdbc43f97c6ffe3f452e1c744b.ann": {
+        "Body_Part": "1",
+        "Disease": "2",
+        "Finding": "1"
+    },
+    "resources/annotations\\1516cc9a339b049f9f982720d61ae734.ann": {
+        "Body_Part": "4",
+        "Abbreviation": "2",
+        "Medication": "1",
+        "Finding": "3",
+        "Procedure": "1"
+    },
+    "resources/annotations\\1526c1443fbd31ffe4f413bf45e6da77.ann": {
+        "Abbreviation": "1",
+        "Body_Part": "1",
+        "Medication": "1",
+        "Finding": "3",
+        "Disease": "3",
+        "Procedure": "2"
+    },
+    "resources/annotations\\1564f2a801cd0975d3c1b36351e35f15.ann": {
+        "Body_Part": "2",
+        "Medication": "1",
+        "Abbreviation": "4",
+        "Procedure": "4",
+        "Disease": "1"
+    },
+    "resources/annotations\\156f2ad189bd8e8c96e6c917b8678de6.ann": {
+        "Abbreviation": "3",
+        "Body_Part": "2",
+        "Procedure": "2",
+        "Finding": "1"
+    },
+    "resources/annotations\\15aacbf1ac94aea2d30918fefcfcc354.ann": {
+        "Abbreviation": "1",
+        "Body_Part": "1",
+        "Disease": "4",
+        "Finding": "1"
+    },
+    "resources/annotations\\15af1b86a0cd3cbe0972c68abf950e6b.ann": {
+        "Abbreviation": "3",
+        "Body_Part": "1",
+        "Finding": "3"
+    },
+    "resources/annotations\\15cb373f98c02faab6dd4a361384fef8.ann": {
+        "Abbreviation": "2",
+        "Disease": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\15e4e78040975c63f74cf0a76906debe.ann": {
+        "Disease": "2",
+        "Finding": "1"
+    },
+    "resources/annotations\\15f7695af7d622a3de7b255c9332d55c.ann": {
+        "Finding": "2",
+        "Body_Part": "2",
+        "Procedure": "1"
+    },
+    "resources/annotations\\161adad8d631cf1ef1dd3e7d8037d904.ann": {
+        "Body_Part": "2",
+        "Disease": "2",
+        "Finding": "2"
+    },
+    "resources/annotations\\164bb77728782212f0d60adf01e813c3.ann": {
+        "Disease": "1",
+        "Abbreviation": "4",
+        "Finding": "1"
+    },
+    "resources/annotations\\167518ee011d0373514d32db7541350d.ann": {
+        "Body_Part": "1",
+        "Abbreviation": "1",
+        "Procedure": "2"
+    },
+    "resources/annotations\\1695eb1060f395562e39d53b1a194179.ann": {
+        "Disease": "3",
+        "Abbreviation": "1",
+        "Procedure": "1",
+        "Body_Part": "1"
+    },
+    "resources/annotations\\16b8af08610cb053e4890f0ba9cc7bd2.ann": {
+        "Abbreviation": "1",
+        "Medication": "1",
+        "Procedure": "2",
+        "Body_Part": "1"
+    },
+    "resources/annotations\\16c7dcdc20b93e17c63c1a078b9b4aa6.ann": {
+        "Body_Part": "7",
+        "Abbreviation": "3",
+        "Procedure": "1",
+        "Finding": "3",
+        "Disease": "1"
+    },
+    "resources/annotations\\16f4a24213b46e7f7ff30f8cefe6de86.ann": {
+        "Abbreviation": "2",
+        "Body_Part": "1",
+        "Disease": "3",
+        "Procedure": "1"
+    },
+    "resources/annotations\\170501bea301b5a6d7db054d5ac6b326.ann": {
+        "Disease": "1",
+        "Body_Part": "2",
+        "Finding": "2",
+        "Abbreviation": "1"
+    },
+    "resources/annotations\\1706e0f4e632c35b073b7ca3b6625e89.ann": {
+        "Finding": "2",
+        "Body_Part": "1",
+        "Disease": "1"
+    },
+    "resources/annotations\\170a2a3e83d95be993f7e83baec0310f.ann": {
+        "Body_Part": "3",
+        "Abbreviation": "1",
+        "Finding": "4"
+    },
+    "resources/annotations\\170d6f89903e970fa4ad60cce332594e.ann": {
+        "Body_Part": "1",
+        "Abbreviation": "3",
+        "Disease": "2",
+        "Procedure": "1"
+    },
+    "resources/annotations\\170ea57233c38034f1400f398c5b163e.ann": {
+        "Abbreviation": "1",
+        "Disease": "1",
+        "Body_Part": "5",
+        "Finding": "2",
+        "Procedure": "2"
+    },
+    "resources/annotations\\170f87d5ead97e1092c8ba3452688890.ann": {
+        "Body_Part": "2",
+        "Abbreviation": "1",
+        "Disease": "3",
+        "Finding": "1"
+    },
+    "resources/annotations\\1712bbb11f7ad7d2a6bb9337fd21acfd.ann": {
+        "Body_Part": "1",
+        "Finding": "4",
+        "Disease": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\177f16c4175450adb697a6e50c972a85.ann": {
+        "Body_Part": "3",
+        "Finding": "3"
+    },
+    "resources/annotations\\17a0dccfbeea00168dcd136754d4ca8d.ann": {
+        "Abbreviation": "6",
+        "Medication": "1",
+        "Body_Part": "2",
+        "Disease": "5",
+        "Procedure": "2",
+        "Finding": "1"
+    },
+    "resources/annotations\\17b56d8937719bd71395fb819561ec32.ann": {
+        "Abbreviation": "2",
+        "Disease": "2",
+        "Body_Part": "4"
+    },
+    "resources/annotations\\17c829209f0076209733b6f43d1a414f.ann": {
+        "Abbreviation": "3",
+        "Body_Part": "2",
+        "Finding": "2",
+        "Procedure": "1"
+    },
+    "resources/annotations\\17d03efec3ce58e98f48bba9771c89d1.ann": {
+        "Body_Part": "4",
+        "Finding": "3",
+        "Procedure": "1"
+    },
+    "resources/annotations\\17d1f4239a36b2ed2662e73fc020758f.ann": {
+        "Disease": "2",
+        "Finding": "4",
+        "Body_Part": "1"
+    },
+    "resources/annotations\\17dfbba8c5500067768a1c03fc9036a3.ann": {
+        "Body_Part": "1",
+        "Disease": "2",
+        "Finding": "1"
+    },
+    "resources/annotations\\18053e189b72b7885d3c79ea88f2ff6d.ann": {
+        "Body_Part": "1",
+        "Finding": "2",
+        "Procedure": "2"
+    },
+    "resources/annotations\\181a54ee02e4725417052da3ecd5a2d7.ann": {
+        "Abbreviation": "1",
+        "Disease": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\181ab95a61f0c76216f8802ddd1ada50.ann": {
+        "Disease": "2"
+    },
+    "resources/annotations\\18230fb8f7c0c1dedb7949325ff7af9f.ann": {
+        "Disease": "3",
+        "Procedure": "1"
+    },
+    "resources/annotations\\182eadd0fca80283bb18391f1dd9401a.ann": {
+        "Body_Part": "1",
+        "Finding": "1",
+        "Procedure": "3"
+    },
+    "resources/annotations\\183100f4bd4b451b04ce45ec37ee570b.ann": {
+        "Disease": "5"
+    },
+    "resources/annotations\\183b0037f0b497e253a51aa4245200f5.ann": {
+        "Body_Part": "2",
+        "Disease": "1",
+        "Procedure": "1",
+        "Finding": "1"
+    },
+    "resources/annotations\\183f0b65c0b859d91e12c82d701344e4.ann": {
+        "Abbreviation": "3",
+        "Body_Part": "2",
+        "Disease": "3",
+        "Procedure": "2"
+    },
+    "resources/annotations\\184590cbfabdc72be15b1c486e43b1f0.ann": {
+        "Body_Part": "3",
+        "Abbreviation": "1",
+        "Finding": "2",
+        "Disease": "1",
+        "Procedure": "2"
+    },
+    "resources/annotations\\1851910db1465111fe9366d1caaf0fab.ann": {
+        "Abbreviation": "1",
+        "Body_Part": "2",
+        "Disease": "1",
+        "Finding": "1"
+    },
+    "resources/annotations\\18686399cc16499ae58edb6dfc79c50c.ann": {
+        "Disease": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\1871444726009c482fd4b0bf033e7451.ann": {
+        "Disease": "4",
+        "Abbreviation": "2",
+        "Finding": "1",
+        "Body_Part": "1"
+    },
+    "resources/annotations\\18bd1bfce8ab48abe223806446e9df84.ann": {
+        "Body_Part": "1",
+        "Abbreviation": "1",
+        "Finding": "2"
+    },
+    "resources/annotations\\18c6f604adb3eee99b997ca5944c1e4a.ann": {
+        "Disease": "2",
+        "Finding": "2",
+        "Procedure": "1"
+    },
+    "resources/annotations\\18ca87079bfb654a3d97661e375abd1d.ann": {
+        "Body_Part": "1",
+        "Disease": "2",
+        "Finding": "2",
+        "Procedure": "1"
+    },
+    "resources/annotations\\18cba6a2af20087e5e9f9118e77b162f.ann": {
+        "Disease": "1",
+        "Finding": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\18fa74c8fc283141af1908d6e5403bef.ann": {
+        "Abbreviation": "2",
+        "Body_Part": "1",
+        "Finding": "3"
+    },
+    "resources/annotations\\18fc8257ee71d19057b1c9b9f08b8f85.ann": {
+        "Body_Part": "2",
+        "Disease": "3",
+        "Abbreviation": "1"
+    },
+    "resources/annotations\\18ffb585b919609d60436584f207536a.ann": {
+        "Finding": "1",
+        "Disease": "1"
+    },
+    "resources/annotations\\190d19b38e13e71623e037cc7ce9c5fb.ann": {
+        "Disease": "2",
+        "Finding": "4"
+    },
+    "resources/annotations\\1956c269556a2f10a25fbf92bfe5e0a1.ann": {
+        "Finding": "1",
+        "Disease": "2",
+        "Abbreviation": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\19669c482f2d4ad70633fc2842861b39.ann": {
+        "Body_Part": "1",
+        "Abbreviation": "4",
+        "Medication": "1",
+        "Finding": "2",
+        "Procedure": "1"
+    },
+    "resources/annotations\\19995511de7cd0e43847cf2e0509d7c9.ann": {
+        "Abbreviation": "2",
+        "Disease": "2",
+        "Procedure": "1",
+        "Finding": "2"
+    },
+    "resources/annotations\\19a6415108aa079331ef311f790b27da.ann": {
+        "Body_Part": "2",
+        "Disease": "1",
+        "Procedure": "1",
+        "Finding": "1"
+    },
+    "resources/annotations\\19b1475d01b7495adcd304962d1d7811.ann": {
+        "Disease": "1",
+        "Finding": "2",
+        "Procedure": "1",
+        "Body_Part": "1"
+    },
+    "resources/annotations\\19baf14b76039a3da8b1c3fc5e84fe4b.ann": {
+        "Disease": "1",
+        "Finding": "1"
+    },
+    "resources/annotations\\19bdfb480e9f6e4bc41a759f7649330f.ann": {
+        "Abbreviation": "3",
+        "Body_Part": "2",
+        "Disease": "2",
+        "Procedure": "3",
+        "Medication": "1",
+        "Finding": "1"
+    },
+    "resources/annotations\\19cf9e665a089acf5de54ba71f0c9052.ann": {
+        "Disease": "3",
+        "Abbreviation": "1",
+        "Body_Part": "4",
+        "Finding": "2"
+    },
+    "resources/annotations\\19edca8495bee34174ce6eee920f4303.ann": {
+        "Abbreviation": "1",
+        "Body_Part": "3",
+        "Disease": "2",
+        "Finding": "3",
+        "Procedure": "1"
+    },
+    "resources/annotations\\19f21daf806f249d2ceed4d387b73fc1.ann": {
+        "Abbreviation": "4",
+        "Body_Part": "2",
+        "Procedure": "3",
+        "Finding": "2"
+    },
+    "resources/annotations\\19f2e687ff6685cf7d36e43ee178b35d.ann": {
+        "Body_Part": "1",
+        "Procedure": "3",
+        "Disease": "1"
+    },
+    "resources/annotations\\19f87a664f9c715acf04429fddb675e7.ann": {
+        "Disease": "3",
+        "Finding": "2",
+        "Procedure": "1",
+        "Body_Part": "1",
+        "Abbreviation": "1",
+        "Medication": "1"
+    },
+    "resources/annotations\\1a0fa80ea00ece4df3037e48380058d4.ann": {
+        "Body_Part": "3",
+        "Disease": "1",
+        "Finding": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\1a30a1795209ef117c8c36ef84ba9c4d.ann": {
+        "Abbreviation": "4",
+        "Body_Part": "2",
+        "Procedure": "3"
+    },
+    "resources/annotations\\1a508a034815c6f9fe800cdfa44747c4.ann": {
+        "Abbreviation": "1",
+        "Body_Part": "1",
+        "Disease": "1",
+        "Finding": "5",
+        "Procedure": "1"
+    },
+    "resources/annotations\\1a51862f303ad7cd176697229be07d14.ann": {
+        "Body_Part": "1",
+        "Disease": "1",
+        "Procedure": "1",
+        "Finding": "1",
+        "Medication": "1",
+        "Abbreviation": "1"
+    },
+    "resources/annotations\\1a65a57a133ce42c1012cf34ac1647f6.ann": {
+        "Abbreviation": "3",
+        "Body_Part": "3",
+        "Finding": "5",
+        "Procedure": "2"
+    },
+    "resources/annotations\\1a8310b31cf6efe5f757d28edc622682.ann": {
+        "Body_Part": "4",
+        "Abbreviation": "2",
+        "Disease": "1",
+        "Procedure": "2",
+        "Finding": "2"
+    },
+    "resources/annotations\\1a869c2d2063bd67a1ba0e8cea1938a7.ann": {
+        "Body_Part": "1",
+        "Finding": "4",
+        "Disease": "1"
+    },
+    "resources/annotations\\1a8b6ec782563d8859a88b3588a51c89.ann": {
+        "Body_Part": "5",
+        "Abbreviation": "1",
+        "Disease": "2",
+        "Finding": "3",
+        "Procedure": "1"
+    },
+    "resources/annotations\\1a966605148a97de8cc7d80902119dbf.ann": {
+        "Body_Part": "2",
+        "Finding": "2"
+    },
+    "resources/annotations\\1ab2433c9e1d9c34cc9933982a593dc7.ann": {
+        "Body_Part": "1",
+        "Abbreviation": "2",
+        "Disease": "1",
+        "Procedure": "2",
+        "Finding": "3"
+    },
+    "resources/annotations\\1abfb227287a4039418502c954c35749.ann": {
+        "Abbreviation": "1",
+        "Body_Part": "1",
+        "Disease": "3",
+        "Finding": "1"
+    },
+    "resources/annotations\\1ac57938606c2c920d0a57d5f8d82c90.ann": {
+        "Disease": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\1adb78c904c157e2d4d647ea95db1199.ann": {
+        "Body_Part": "1",
+        "Disease": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\1af376cf83da6e34b5643e6f51b5db68.ann": {
+        "Abbreviation": "1",
+        "Disease": "2",
+        "Procedure": "1"
+    },
+    "resources/annotations\\1b270816ba1a22628e4cfea3b660ea34.ann": {
+        "Abbreviation": "2",
+        "Body_Part": "1",
+        "Disease": "1",
+        "Procedure": "2",
+        "Medication": "1",
+        "Finding": "1"
+    },
+    "resources/annotations\\1b5d60492318cf54b28b123f76d92b1c.ann": {
+        "Body_Part": "2",
+        "Abbreviation": "3",
+        "Procedure": "1",
+        "Finding": "2"
+    },
+    "resources/annotations\\1b7cedd99c406567f95638a2d2f56a12.ann": {
+        "Abbreviation": "1",
+        "Medication": "2",
+        "Body_Part": "1",
+        "Disease": "3",
+        "Finding": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\1ba16192b98743e8e21ec32ce64993a4.ann": {
+        "Disease": "2",
+        "Abbreviation": "2",
+        "Body_Part": "1",
+        "Procedure": "1",
+        "Finding": "1"
+    },
+    "resources/annotations\\1bf9b30b1fc6392fdfbc416cd0c01df0.ann": {
+        "Body_Part": "1",
+        "Abbreviation": "3",
+        "Disease": "2",
+        "Procedure": "1"
+    },
+    "resources/annotations\\1c16e6bfd4ab2a6ac991d1a117397b50.ann": {
+        "Body_Part": "1"
+    },
+    "resources/annotations\\1c367c9e5340e01e2cbc75d58ba2a6c9.ann": {
+        "Body_Part": "1",
+        "Disease": "1",
+        "Procedure": "2",
+        "Finding": "1"
+    },
+    "resources/annotations\\1c46e8b5ed4990f95960e8a524cdc7c1.ann": {
+        "Disease": "2",
+        "Finding": "4"
+    },
+    "resources/annotations\\1c572ed8ce23f5d8727f4607cf8cfb5a.ann": {
+        "Body_Part": "3",
+        "Abbreviation": "1",
+        "Disease": "2",
+        "Procedure": "1"
+    },
+    "resources/annotations\\1c65effcf906449f67dd46cf927bbe11.ann": {
+        "Disease": "2",
+        "Abbreviation": "4",
+        "Body_Part": "1",
+        "Finding": "2",
+        "Procedure": "1"
+    },
+    "resources/annotations\\1c7a953fb7ada75ed6712f21dc1201bc.ann": {
+        "Procedure": "1",
+        "Body_Part": "4",
+        "Finding": "3",
+        "Disease": "2"
+    },
+    "resources/annotations\\1cba93a34ab097b74722529159247757.ann": {
+        "Abbreviation": "1",
+        "Disease": "3"
+    },
+    "resources/annotations\\1cd562f99c56c9ddcd9432dd8b1f2188.ann": {
+        "Abbreviation": "1",
+        "Body_Part": "3",
+        "Finding": "1",
+        "Procedure": "3"
+    },
+    "resources/annotations\\1ce213fd71ac4330a89e6295b6083220.ann": {
+        "Abbreviation": "1",
+        "Body_Part": "1",
+        "Procedure": "3",
+        "Finding": "1"
+    },
+    "resources/annotations\\1ce3fd96607c6b9ade2f87f7ff6ff8c2.ann": {
+        "Body_Part": "3",
+        "Abbreviation": "2",
+        "Procedure": "1",
+        "Finding": "1",
+        "Disease": "1"
+    },
+    "resources/annotations\\1cf85473b06a1de0361e8c7a5b844b56.ann": {
+        "Body_Part": "1",
+        "Medication": "1",
+        "Abbreviation": "1",
+        "Disease": "1",
+        "Finding": "2",
+        "Procedure": "2"
+    },
+    "resources/annotations\\1d0e5fb4efaf1bc0d9392f2a97d1494f.ann": {
+        "Disease": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\1d128ad20ed1b6aebe079c6c0390a594.ann": {
+        "Body_Part": "2",
+        "Disease": "1",
+        "Finding": "1"
+    },
+    "resources/annotations\\1d2582a1ffb27f372bd2bb205d9dbcd6.ann": {
+        "Disease": "1",
+        "Finding": "1"
+    },
+    "resources/annotations\\1d2f0aa04b0fa346d6e2765f532681c1.ann": {
+        "Body_Part": "5",
+        "Abbreviation": "1",
+        "Disease": "4",
+        "Procedure": "3",
+        "Finding": "3",
+        "Medication": "1"
+    },
+    "resources/annotations\\1d3c628d178c6092ff48d3fdbdc728f5.ann": {
+        "Disease": "1",
+        "Procedure": "2",
+        "Body_Part": "1"
+    },
+    "resources/annotations\\1d79adaf672f596e1db4f4c6192c2859.ann": {
+        "Abbreviation": "2",
+        "Body_Part": "1",
+        "Disease": "1",
+        "Procedure": "2",
+        "Finding": "1"
+    },
+    "resources/annotations\\1d7e1fd3af3c919d35269168f5cb7805.ann": {
+        "Disease": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\1d9f0f5f9110a3ca511d301acb4b45da.ann": {
+        "Abbreviation": "2",
+        "Body_Part": "1",
+        "Procedure": "2",
+        "Finding": "1"
+    },
+    "resources/annotations\\1dbdb0b23975add4e8c1fb554b94a6f8.ann": {
+        "Abbreviation": "1",
+        "Body_Part": "4",
+        "Finding": "1",
+        "Procedure": "2"
+    },
+    "resources/annotations\\1e026dd4ba056ebb8316e86fb138b224.ann": {
+        "Body_Part": "1",
+        "Disease": "3",
+        "Procedure": "1",
+        "Medication": "1",
+        "Finding": "1",
+        "Abbreviation": "1"
+    },
+    "resources/annotations\\1e0f58ca9ec9e0940e1ffd0d6b225583.ann": {
+        "Body_Part": "2",
+        "Procedure": "1",
+        "Disease": "2"
+    },
+    "resources/annotations\\1e10efb7dd7f8f0f10661f401480320e.ann": {
+        "Disease": "1",
+        "Body_Part": "1",
+        "Finding": "3"
+    },
+    "resources/annotations\\1e3a16e4f004054e0c2e34a6369df9bc.ann": {
+        "Abbreviation": "1",
+        "Disease": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\1e9bc32fb8becb21d379025da88e7370.ann": {
+        "Abbreviation": "1",
+        "Body_Part": "1",
+        "Finding": "3",
+        "Disease": "1"
+    },
+    "resources/annotations\\1e9c713dcc4368ce84b6cbce2395c5f1.ann": {
+        "Abbreviation": "3",
+        "Body_Part": "2",
+        "Finding": "2",
+        "Disease": "1",
+        "Procedure": "2"
+    },
+    "resources/annotations\\1ea016104938f38cb8514697ed1df5fe.ann": {
+        "Abbreviation": "5",
+        "Body_Part": "1",
+        "Disease": "3",
+        "Finding": "1"
+    },
+    "resources/annotations\\1ea0d473791da423bca95860a6d71e1e.ann": {
+        "Disease": "2",
+        "Abbreviation": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\1ea43c6c2a9c862e29d694a2be5392b4.ann": {
+        "Body_Part": "3",
+        "Finding": "3"
+    },
+    "resources/annotations\\1ea7f3cdd0b490b8942f37e34531f2de.ann": {
+        "Finding": "3",
+        "Disease": "2"
+    },
+    "resources/annotations\\1eb1eea63ce244ed558903c1ad3890d3.ann": {
+        "Body_Part": "1",
+        "Procedure": "1",
+        "Disease": "2",
+        "Abbreviation": "1",
+        "Medication": "2",
+        "Finding": "1"
+    },
+    "resources/annotations\\1ed474ea01898d4f56e44af06d5c610e.ann": {
+        "Abbreviation": "2",
+        "Body_Part": "2",
+        "Finding": "1"
+    },
+    "resources/annotations\\1ed9daff4382efc9af2cfa4ffebf774a.ann": {
+        "Abbreviation": "1",
+        "Body_Part": "1",
+        "Disease": "4",
+        "Finding": "1"
+    },
+    "resources/annotations\\1ee7f0e790ffa374580be5e62f8253b3.ann": {
+        "Disease": "2",
+        "Abbreviation": "2",
+        "Body_Part": "1",
+        "Procedure": "2",
+        "Medication": "1",
+        "Finding": "1"
+    },
+    "resources/annotations\\1f06433d11ae6b69ebdba7aaf92d6d1a.ann": {
+        "Abbreviation": "1",
+        "Disease": "2",
+        "Procedure": "1",
+        "Finding": "3"
+    },
+    "resources/annotations\\1f3843837de8d5c4e39a70a49cb13d04.ann": {
+        "Body_Part": "2",
+        "Finding": "1"
+    },
+    "resources/annotations\\1f42ebb9fa756b3c1388c55b735e04c5.ann": {
+        "Body_Part": "2",
+        "Abbreviation": "1",
+        "Procedure": "2",
+        "Finding": "1",
+        "Disease": "1"
+    },
+    "resources/annotations\\1f49dccd6b2eede67c3c3efa37370dc7.ann": {
+        "Disease": "2",
+        "Abbreviation": "1",
+        "Finding": "2"
+    },
+    "resources/annotations\\1f57d8a0e1b8b066102d66ff82d74ed2.ann": {
+        "Disease": "1",
+        "Finding": "2",
+        "Procedure": "1"
+    },
+    "resources/annotations\\1f5e276e3bd31f4c0a1ee269e945d8b7.ann": {
+        "Abbreviation": "1",
+        "Body_Part": "2",
+        "Disease": "4",
+        "Finding": "2",
+        "Procedure": "2"
+    },
+    "resources/annotations\\1f60dca8782b7ac7f1907f1ca6f4ce23.ann": {
+        "Abbreviation": "2",
+        "Body_Part": "3",
+        "Disease": "2",
+        "Finding": "3"
+    },
+    "resources/annotations\\1f6b055a872aded468daaacd6bbb53b4.ann": {
+        "Abbreviation": "1",
+        "Body_Part": "5",
+        "Disease": "2",
+        "Finding": "1"
+    },
+    "resources/annotations\\1f83b9b9cf2e61a5388177c54e4efefc.ann": {
+        "Disease": "3",
+        "Body_Part": "4",
+        "Procedure": "3",
+        "Finding": "1"
+    },
+    "resources/annotations\\1fb91514bc9ab3f77aaa1b6460703d88.ann": {
+        "Disease": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\1fbacacd7338391bc50aa252c2741035.ann": {
+        "Body_Part": "2",
+        "Disease": "4",
+        "Finding": "1"
+    },
+    "resources/annotations\\1fc2cd2505bcca4f692a172ba2f04c6d.ann": {
+        "Body_Part": "2",
+        "Abbreviation": "3",
+        "Medication": "2",
+        "Procedure": "2",
+        "Finding": "1"
+    },
+    "resources/annotations\\1fe18737606fb8dfbf53eb2da3ac7a05.ann": {
+        "Disease": "2",
+        "Body_Part": "2",
+        "Finding": "1"
+    },
+    "resources/annotations\\1feb940aafca5e72bcc4a2bf2afd0da7.ann": {
+        "Body_Part": "5",
+        "Disease": "3",
+        "Finding": "2",
+        "Procedure": "1"
+    },
+    "resources/annotations\\204654f377a108db8b814532e15db860.ann": {
+        "Body_Part": "1",
+        "Abbreviation": "1",
+        "Disease": "2",
+        "Finding": "2"
+    },
+    "resources/annotations\\204b7ffe0da2d195f2facac0544f257d.ann": {
+        "Body_Part": "2",
+        "Disease": "3",
+        "Finding": "2"
+    },
+    "resources/annotations\\20a1512af065810c085bfd739fb0b95c.ann": {
+        "Body_Part": "1",
+        "Abbreviation": "3",
+        "Procedure": "2",
+        "Disease": "4"
+    },
+    "resources/annotations\\20af2384b87f6d8d91929c009d38e6b3.ann": {
+        "Disease": "4",
+        "Body_Part": "1",
+        "Abbreviation": "2"
+    },
+    "resources/annotations\\20ff54a464e72e5d8126382135183d7a.ann": {
+        "Disease": "2",
+        "Body_Part": "1"
+    },
+    "resources/annotations\\210c9dae5bb62ed733fbf95071346596.ann": {
+        "Disease": "1",
+        "Finding": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\211a6e5c47ba91a4c19a0339501cb92d.ann": {
+        "Body_Part": "1",
+        "Abbreviation": "2",
+        "Medication": "1",
+        "Disease": "2",
+        "Procedure": "3"
+    },
+    "resources/annotations\\21225012dbb36eb89a68739d73ed8545.ann": {
+        "Abbreviation": "1",
+        "Body_Part": "2",
+        "Procedure": "1",
+        "Finding": "1"
+    },
+    "resources/annotations\\215e8ced723fa580936baadf62411b5e.ann": {
+        "Abbreviation": "1",
+        "Body_Part": "1",
+        "Disease": "3"
+    },
+    "resources/annotations\\21633ae3292f93152c555acbd181bf7e.ann": {
+        "Disease": "3",
+        "Abbreviation": "5",
+        "Finding": "1",
+        "Procedure": "2"
+    },
+    "resources/annotations\\219148ebb15c98ea769334fce6a40a35.ann": {
+        "Body_Part": "2",
+        "Abbreviation": "2",
+        "Finding": "1",
+        "Disease": "3"
+    },
+    "resources/annotations\\21a29f6abcf4c3f9895559aa805c2699.ann": {
+        "Body_Part": "2",
+        "Abbreviation": "2",
+        "Disease": "1",
+        "Finding": "3",
+        "Procedure": "1"
+    },
+    "resources/annotations\\21a2c4e4cd72f715e65a5efeb3eccc4d.ann": {
+        "Body_Part": "4",
+        "Finding": "3",
+        "Disease": "1"
+    },
+    "resources/annotations\\21aed93111e5ffe101530e0efa369933.ann": {
+        "Body_Part": "2",
+        "Disease": "2",
+        "Abbreviation": "1",
+        "Finding": "1"
+    },
+    "resources/annotations\\21b681910ccec4fc2bd6501e7f7eb2c7.ann": {
+        "Body_Part": "2",
+        "Finding": "2",
+        "Disease": "1",
+        "Procedure": "2"
+    },
+    "resources/annotations\\21b6ef0d5e73c442846db0ddcd2c1c79.ann": {
+        "Disease": "3",
+        "Abbreviation": "2",
+        "Procedure": "1",
+        "Finding": "3",
+        "Body_Part": "3"
+    },
+    "resources/annotations\\21d0ec35d974c1b5ff9224c155b084ed.ann": {
+        "Disease": "4",
+        "Abbreviation": "1",
+        "Finding": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\21d427d4360521d210f2e4025daa5cd3.ann": {
+        "Body_Part": "4",
+        "Abbreviation": "8",
+        "Medication": "2",
+        "Disease": "2",
+        "Finding": "5",
+        "Procedure": "1"
+    },
+    "resources/annotations\\21d833dff796cd9fb5392d24bd092f38.ann": {
+        "Disease": "2",
+        "Body_Part": "2",
+        "Finding": "1"
+    },
+    "resources/annotations\\21e991eaf7f141ffdc5a9430fb47089e.ann": {
+        "Body_Part": "2",
+        "Finding": "3",
+        "Procedure": "1"
+    },
+    "resources/annotations\\21f0eb2d4456a0f597f3abd36cbba649.ann": {
+        "Abbreviation": "4",
+        "Body_Part": "1",
+        "Finding": "3"
+    },
+    "resources/annotations\\21fb884be0c3f049d7fff28fe704e083.ann": {
+        "Disease": "6",
+        "Abbreviation": "1",
+        "Procedure": "1",
+        "Body_Part": "1"
+    },
+    "resources/annotations\\223c26380c73f43f195e4b170ce77136.ann": {
+        "Disease": "4",
+        "Abbreviation": "2",
+        "Body_Part": "4",
+        "Finding": "1"
+    },
+    "resources/annotations\\223c286bb9dbdccad4090dc2ed8981d6.ann": {
+        "Body_Part": "1",
+        "Disease": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\2243a133aaf2bc5a8f750bc34e4d7f45.ann": {
+        "Body_Part": "2",
+        "Abbreviation": "2",
+        "Procedure": "2"
+    },
+    "resources/annotations\\2285c4c0da905ace916b5264816f3562.ann": {
+        "Disease": "7",
+        "Body_Part": "3",
+        "Finding": "1",
+        "Abbreviation": "1"
+    },
+    "resources/annotations\\22aaa731573b30c3c18baaf168f5a18b.ann": {
+        "Body_Part": "4",
+        "Disease": "1",
+        "Finding": "3"
+    },
+    "resources/annotations\\22b19859ce74a981da697d586036f314.ann": {
+        "Body_Part": "2",
+        "Disease": "2"
+    },
+    "resources/annotations\\22c592d320ec9d021ba81ad9840ecebc.ann": {
+        "Abbreviation": "1",
+        "Body_Part": "1",
+        "Disease": "2",
+        "Finding": "2"
+    },
+    "resources/annotations\\22c8c009601149da41c5cbc9ced5c3b4.ann": {
+        "Abbreviation": "3",
+        "Body_Part": "2",
+        "Disease": "3",
+        "Finding": "1"
+    },
+    "resources/annotations\\22cf5888cf0a94e8e92e71fc46af81dd.ann": {
+        "Finding": "1",
+        "Disease": "1"
+    },
+    "resources/annotations\\22cf985347ad85f87431f3062dda9c36.ann": {
+        "Body_Part": "2",
+        "Disease": "1",
+        "Procedure": "2",
+        "Abbreviation": "1"
+    },
+    "resources/annotations\\22e4090ad38ce1cca5f1251de6f1841c.ann": {
+        "Abbreviation": "2",
+        "Procedure": "2",
+        "Finding": "1",
+        "Body_Part": "1"
+    },
+    "resources/annotations\\22fa72c929a45e362524e980ee9df92b.ann": {
+        "Disease": "4",
+        "Abbreviation": "2",
+        "Body_Part": "2",
+        "Finding": "1"
+    },
+    "resources/annotations\\22fea78710c104279a25314aa8f365e6.ann": {
+        "Disease": "4"
+    },
+    "resources/annotations\\231834d3c03e5d67ff6d95272dc9e5cc.ann": {
+        "Abbreviation": "1",
+        "Body_Part": "3",
+        "Finding": "2",
+        "Disease": "2",
+        "Procedure": "2"
+    },
+    "resources/annotations\\234a3318376fed201ef2e9b3e994ce88.ann": {
+        "Body_Part": "2",
+        "Abbreviation": "1",
+        "Finding": "3",
+        "Disease": "1"
+    },
+    "resources/annotations\\2361e6b898779d528f7c8c1c4b5b1b7c.ann": {
+        "Body_Part": "3",
+        "Finding": "2",
+        "Procedure": "1"
+    },
+    "resources/annotations\\2369ce1fd53ef906887f40a5a340e45d.ann": {
+        "Abbreviation": "1",
+        "Body_Part": "2",
+        "Family_Member": "1",
+        "Disease": "3",
+        "Procedure": "2"
+    },
+    "resources/annotations\\2382e1628d84247e7108915f7c7c5ae0.ann": {
+        "Disease": "1",
+        "Finding": "1",
+        "Procedure": "1",
+        "Body_Part": "1"
+    },
+    "resources/annotations\\2391025e25e885040d6c3f0810eb21cb.ann": {
+        "Body_Part": "3",
+        "Disease": "5",
+        "Finding": "1",
+        "Procedure": "3"
+    },
+    "resources/annotations\\23a2a7984b72ea4bfb38d41abbdcde46.ann": {
+        "Body_Part": "2",
+        "Abbreviation": "2",
+        "Finding": "5",
+        "Procedure": "1"
+    },
+    "resources/annotations\\23ca9756827fded990bf82c95bc2e239.ann": {
+        "Disease": "2",
+        "Abbreviation": "3",
+        "Body_Part": "2",
+        "Finding": "3"
+    },
+    "resources/annotations\\240e30cc4aa5929a347f18d69f6ce495.ann": {
+        "Procedure": "2",
+        "Disease": "1",
+        "Finding": "1"
+    },
+    "resources/annotations\\241fd1f430d07acdec572da0cd7007cc.ann": {
+        "Disease": "1",
+        "Abbreviation": "4",
+        "Medication": "2",
+        "Body_Part": "1"
+    },
+    "resources/annotations\\242ef35eb4cc053783bfe8b9eca26eb9.ann": {
+        "Body_Part": "1",
+        "Abbreviation": "1",
+        "Disease": "1",
+        "Finding": "3",
+        "Procedure": "1"
+    },
+    "resources/annotations\\243229824adf2ac97ebb7afb4c67f13b.ann": {
+        "Disease": "2",
+        "Abbreviation": "1",
+        "Procedure": "1",
+        "Body_Part": "2",
+        "Finding": "1"
+    },
+    "resources/annotations\\243e908046eaeefa094399203a8f4f71.ann": {
+        "Abbreviation": "3",
+        "Body_Part": "1",
+        "Disease": "1",
+        "Finding": "1"
+    },
+    "resources/annotations\\24411f8239bbc14de83d75b2332dd6ac.ann": {
+        "Disease": "2",
+        "Finding": "3"
+    },
+    "resources/annotations\\244360275ca12755885524177a995c4b.ann": {
+        "Disease": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\246d4ab4c0c056f2ed12cdd86660d66e.ann": {
+        "Abbreviation": "1",
+        "Disease": "1",
+        "Finding": "2"
+    },
+    "resources/annotations\\248920109abc022a3169b58e47882b5f.ann": {
+        "Body_Part": "1",
+        "Abbreviation": "1",
+        "Finding": "2",
+        "Disease": "1"
+    },
+    "resources/annotations\\249b5de8211d09147d7bd0f7d44f799b.ann": {
+        "Body_Part": "3",
+        "Abbreviation": "1",
+        "Finding": "2",
+        "Disease": "1"
+    },
+    "resources/annotations\\24a4f48e54f44738a33261d06de3a047.ann": {
+        "Body_Part": "1",
+        "Finding": "1",
+        "Disease": "1"
+    },
+    "resources/annotations\\24ae3397fa2c1762efd65d490b93de56.ann": {
+        "Body_Part": "2",
+        "Abbreviation": "1",
+        "Disease": "1",
+        "Procedure": "1",
+        "Finding": "1"
+    },
+    "resources/annotations\\24b4a99b8920e160c72646b471be55ab.ann": {
+        "Disease": "2",
+        "Finding": "1"
+    },
+    "resources/annotations\\24b75c5a8310568d1a0c05ffe65834d4.ann": {
+        "Body_Part": "3",
+        "Abbreviation": "4",
+        "Medication": "1",
+        "Procedure": "2",
+        "Disease": "1",
+        "Finding": "1"
+    },
+    "resources/annotations\\24c19e2c4d3b8305ad90c7374ad28395.ann": {
+        "Abbreviation": "1",
+        "Body_Part": "2",
+        "Finding": "4"
+    },
+    "resources/annotations\\24d4c5f6ae8493b33dc32d84fcd4d65a.ann": {
+        "Body_Part": "1",
+        "Finding": "2",
+        "Procedure": "2",
+        "Disease": "1"
+    },
+    "resources/annotations\\24f9d55c8287a16cac1c05a8133af0ff.ann": {
+        "Body_Part": "2",
+        "Abbreviation": "2",
+        "Finding": "1"
+    },
+    "resources/annotations\\24fa9c460b9f1117ab60b28a6db8805e.ann": {
+        "Disease": "2",
+        "Procedure": "1",
+        "Finding": "2",
+        "Abbreviation": "1",
+        "Body_Part": "1"
+    },
+    "resources/annotations\\2537d830b9238751a11a4cd71e86cc0c.ann": {
+        "Abbreviation": "2",
+        "Finding": "1",
+        "Disease": "1",
+        "Body_Part": "2"
+    },
+    "resources/annotations\\25535d8caa7adf94a64da663feb580f0.ann": {
+        "Body_Part": "3",
+        "Abbreviation": "3",
+        "Disease": "2",
+        "Finding": "2",
+        "Procedure": "1"
+    },
+    "resources/annotations\\257d5bd856cd0358eec4327c3d1d228e.ann": {
+        "Medication": "2",
+        "Abbreviation": "2",
+        "Body_Part": "1",
+        "Disease": "1",
+        "Procedure": "1",
+        "Finding": "3"
+    },
+    "resources/annotations\\2585c0d9aac02a9d2499ffd46407cae6.ann": {
+        "Abbreviation": "2",
+        "Body_Part": "1",
+        "Disease": "1",
+        "Finding": "1"
+    },
+    "resources/annotations\\25ad7aa6e06178ed66d398c5502d7276.ann": {
+        "Finding": "4",
+        "Body_Part": "1",
+        "Abbreviation": "1",
+        "Procedure": "2"
+    },
+    "resources/annotations\\25b348b1c500df799ed297ff36b65392.ann": {
+        "Abbreviation": "2",
+        "Disease": "1",
+        "Finding": "2"
+    },
+    "resources/annotations\\25c4b665a08ffe7e43ba09ca9c256df7.ann": {
+        "Abbreviation": "1",
+        "Body_Part": "1",
+        "Disease": "3",
+        "Family_Member": "1",
+        "Finding": "1"
+    },
+    "resources/annotations\\25ed5e6e532f8165beae1f8782de63dd.ann": {
+        "Body_Part": "2",
+        "Abbreviation": "1",
+        "Procedure": "2",
+        "Disease": "1",
+        "Finding": "2"
+    },
+    "resources/annotations\\25ef3f4ae071c7821cd34140095ef0b2.ann": {
+        "Abbreviation": "2",
+        "Body_Part": "1",
+        "Finding": "3"
+    },
+    "resources/annotations\\25f7845ef7dc6e0bb8912261cfaf4300.ann": {
+        "Finding": "4",
+        "Body_Part": "5",
+        "Procedure": "1"
+    },
+    "resources/annotations\\25f99563af67311692c2f123e348e930.ann": {
+        "Abbreviation": "1",
+        "Body_Part": "1",
+        "Disease": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\260e43da6638e2700d919f2c08edd3a9.ann": {
+        "Body_Part": "1",
+        "Abbreviation": "1",
+        "Finding": "1"
+    },
+    "resources/annotations\\2612ed298394059fe949e78204292060.ann": {
+        "Disease": "2",
+        "Abbreviation": "1",
+        "Body_Part": "3",
+        "Procedure": "2",
+        "Finding": "1"
+    },
+    "resources/annotations\\26692319fd3fbf97bc9a9ce66b4266a6.ann": {
+        "Disease": "3",
+        "Abbreviation": "1",
+        "Body_Part": "1"
+    },
+    "resources/annotations\\2669a1abd9623bf22e7f874a43bd6341.ann": {
+        "Body_Part": "1",
+        "Abbreviation": "2",
+        "Finding": "2",
+        "Procedure": "2"
+    },
+    "resources/annotations\\2693106edea8f50466915358f0f14780.ann": {
+        "Abbreviation": "2",
+        "Disease": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\26af73badc6b2cd6e309f052380f4e5e.ann": {
+        "Abbreviation": "5",
+        "Medication": "1",
+        "Body_Part": "1",
+        "Disease": "1",
+        "Procedure": "2",
+        "Finding": "2"
+    },
+    "resources/annotations\\26c0c9e05f625b823f7b33b1f1ee80a6.ann": {
+        "Body_Part": "1",
+        "Finding": "1",
+        "Disease": "2"
+    },
+    "resources/annotations\\26cbd8ffb82f7fa3bf19eceb9451bab0.ann": {
+        "Abbreviation": "2",
+        "Body_Part": "1",
+        "Disease": "2",
+        "Finding": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\26cd796faece8698fb63d247df911599.ann": {
+        "Abbreviation": "2",
+        "Disease": "2",
+        "Finding": "1"
+    },
+    "resources/annotations\\26cda11c73d4b4c76cae1a4339747a03.ann": {
+        "Body_Part": "1",
+        "Procedure": "2",
+        "Finding": "1"
+    },
+    "resources/annotations\\26f3cdff4541a139db2049d2160e16fe.ann": {
+        "Body_Part": "2",
+        "Finding": "2",
+        "Disease": "1"
+    },
+    "resources/annotations\\2704b93b7fa4df8f69294ccacbe241aa.ann": {
+        "Body_Part": "1",
+        "Finding": "2",
+        "Abbreviation": "1",
+        "Medication": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\27053e4fb503023b43eacf658b20a65d.ann": {
+        "Finding": "3",
+        "Abbreviation": "3",
+        "Body_Part": "1",
+        "Procedure": "2"
+    },
+    "resources/annotations\\270c5bfeb0a134f0d77b654dbf90cf5e.ann": {
+        "Body_Part": "1",
+        "Finding": "2",
+        "Disease": "1",
+        "Abbreviation": "1"
+    },
+    "resources/annotations\\27119e55428d8cffa2d7b128c9a9da59.ann": {
+        "Disease": "2",
+        "Abbreviation": "1",
+        "Body_Part": "1",
+        "Finding": "3"
+    },
+    "resources/annotations\\271b0402c4e9c21991b7e9f633ea1992.ann": {
+        "Body_Part": "1",
+        "Disease": "4"
+    },
+    "resources/annotations\\2723e40ddbe2fb3dee4fb947550df889.ann": {
+        "Body_Part": "1",
+        "Disease": "2",
+        "Finding": "1"
+    },
+    "resources/annotations\\27384796909cead871257367ffd04e18.ann": {
+        "Body_Part": "1",
+        "Finding": "3",
+        "Procedure": "1"
+    },
+    "resources/annotations\\273fa91b963e19568b6d7dab0604b4a7.ann": {
+        "Disease": "2",
+        "Finding": "1"
+    },
+    "resources/annotations\\279127ecf50801ad4f822b4e05d6dc8d.ann": {
+        "Disease": "2",
+        "Finding": "4",
+        "Body_Part": "1"
+    },
+    "resources/annotations\\2795b40d11957781f93ec5d2458b44e8.ann": {
+        "Disease": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\27abd89e62838b138ef221105ed5ae79.ann": {
+        "Disease": "2",
+        "Procedure": "1"
+    },
+    "resources/annotations\\27b5f0e36680a775ca761cbeb7c01f70.ann": {
+        "Body_Part": "3",
+        "Finding": "1",
+        "Disease": "2"
+    },
+    "resources/annotations\\27cb1f828a4a1429338194406404d2af.ann": {
+        "Abbreviation": "1",
+        "Body_Part": "1",
+        "Finding": "4",
+        "Procedure": "1"
+    },
+    "resources/annotations\\27d4a4b26f4cbfaf8be2326e2def7f04.ann": {
+        "Body_Part": "2",
+        "Procedure": "2",
+        "Disease": "1",
+        "Abbreviation": "1"
+    },
+    "resources/annotations\\281c0e35c5a95ebc2e08b18f59c12dac.ann": {
+        "Abbreviation": "2",
+        "Procedure": "1",
+        "Disease": "1",
+        "Finding": "1",
+        "Body_Part": "1"
+    },
+    "resources/annotations\\2826e7b6e7580e58a8cc28e21ece0aaa.ann": {
+        "Body_Part": "1",
+        "Finding": "2",
+        "Procedure": "1",
+        "Disease": "1"
+    },
+    "resources/annotations\\2861cd1aa601c12c57b255e07d383034.ann": {
+        "Disease": "2",
+        "Procedure": "1"
+    },
+    "resources/annotations\\2864eb6f1cac1015b671166dc95495a5.ann": {
+        "Body_Part": "3",
+        "Finding": "1",
+        "Disease": "1",
+        "Abbreviation": "1"
+    },
+    "resources/annotations\\286c7e52014dd23674c57b376becbf73.ann": {
+        "Disease": "3",
+        "Abbreviation": "2",
+        "Procedure": "1",
+        "Body_Part": "1"
+    },
+    "resources/annotations\\288a94ec745c8469206adbd9a5a5a124.ann": {
+        "Finding": "3",
+        "Procedure": "1",
+        "Body_Part": "2",
+        "Abbreviation": "3",
+        "Disease": "1"
+    },
+    "resources/annotations\\28adbdd6008b6275c247193c53972cbd.ann": {
+        "Abbreviation": "1",
+        "Body_Part": "4",
+        "Disease": "3",
+        "Finding": "2"
+    },
+    "resources/annotations\\28b99577815d37fb927ab79c0390e664.ann": {
+        "Finding": "4",
+        "Body_Part": "2"
+    },
+    "resources/annotations\\28c91e9798d80c94955f70c1258e16b6.ann": {
+        "Body_Part": "1",
+        "Abbreviation": "1",
+        "Disease": "1",
+        "Finding": "4"
+    },
+    "resources/annotations\\28d7535a7aafe08a8b234f7105341e60.ann": {
+        "Finding": "1",
+        "Disease": "1"
+    },
+    "resources/annotations\\28de1cbffa913465ca27c8c9c0cf8821.ann": {
+        "Abbreviation": "1",
+        "Body_Part": "1",
+        "Disease": "3",
+        "Procedure": "1"
+    },
+    "resources/annotations\\28fa15b90a70ceb0959d68a405afcdf6.ann": {
+        "Body_Part": "1",
+        "Abbreviation": "1",
+        "Finding": "3",
+        "Procedure": "1"
+    },
+    "resources/annotations\\290702e8a602411a0c2fad7de5437c7f.ann": {
+        "Abbreviation": "7",
+        "Body_Part": "2",
+        "Disease": "2",
+        "Procedure": "2",
+        "Medication": "2",
+        "Finding": "1"
+    },
+    "resources/annotations\\2942b55eb9b837e58a6cc98bd00bf312.ann": {
+        "Body_Part": "4",
+        "Abbreviation": "5",
+        "Disease": "3",
+        "Finding": "5"
+    },
+    "resources/annotations\\295a96c52cdd0fc9812dd1682917e93d.ann": {
+        "Body_Part": "2",
+        "Disease": "2",
+        "Finding": "3"
+    },
+    "resources/annotations\\297005c8c6f303ce94eff36de2666674.ann": {
+        "Abbreviation": "3",
+        "Disease": "2",
+        "Finding": "1"
+    },
+    "resources/annotations\\29737e1471ca6cee16ca02b11452de93.ann": {
+        "Abbreviation": "2",
+        "Body_Part": "1",
+        "Disease": "3",
+        "Finding": "1"
+    },
+    "resources/annotations\\2979217fade7cb2c8800ae4f83863b45.ann": {
+        "Abbreviation": "2",
+        "Body_Part": "1",
+        "Procedure": "3",
+        "Disease": "2"
+    },
+    "resources/annotations\\298d2988793fc271f668f5150046a51c.ann": {
+        "Abbreviation": "1",
+        "Disease": "3"
+    },
+    "resources/annotations\\29bfb7b19d9e43d726e036208794044c.ann": {
+        "Body_Part": "2",
+        "Disease": "2",
+        "Finding": "1"
+    },
+    "resources/annotations\\29df34acd9a6105a098213346c85624e.ann": {
+        "Disease": "1"
+    },
+    "resources/annotations\\29e2ef0ae994a5f25c3dee60c44b9957.ann": {
+        "Body_Part": "3",
+        "Abbreviation": "1",
+        "Disease": "2",
+        "Finding": "1"
+    },
+    "resources/annotations\\29e458dfc7f9bde36e18d8b399d826c2.ann": {
+        "Disease": "2",
+        "Body_Part": "2",
+        "Finding": "1"
+    },
+    "resources/annotations\\29f3477ba930d52f24ce37e4fe82f98a.ann": {
+        "Finding": "3",
+        "Body_Part": "2"
+    },
+    "resources/annotations\\29f43d8ae5e7f26c9c1a6ffc6cf94305.ann": {
+        "Abbreviation": "3",
+        "Body_Part": "2",
+        "Disease": "1",
+        "Finding": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\29fb73d7ea353d65f18e3172efa9e0cd.ann": {
+        "Abbreviation": "1",
+        "Body_Part": "1",
+        "Disease": "2",
+        "Procedure": "1"
+    },
+    "resources/annotations\\2a0f830f38187f7bb7b8bd052c9d2ee6.ann": {
+        "Abbreviation": "4",
+        "Body_Part": "1",
+        "Disease": "1",
+        "Finding": "3",
+        "Procedure": "1"
+    },
+    "resources/annotations\\2a10f706b35b0f9e5e49488e77983f7a.ann": {
+        "Body_Part": "2",
+        "Abbreviation": "2",
+        "Medication": "2",
+        "Disease": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\2a186c727de7c3a630fa0174b12127cc.ann": {
+        "Disease": "1",
+        "Abbreviation": "1",
+        "Body_Part": "1",
+        "Finding": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\2a18958616b0854585b41e7570a34308.ann": {
+        "Disease": "3",
+        "Body_Part": "1",
+        "Procedure": "1",
+        "Finding": "1"
+    },
+    "resources/annotations\\2a32af735a38a9e413ef622d94e6a376.ann": {
+        "Disease": "4",
+        "Finding": "3",
+        "Body_Part": "1"
+    },
+    "resources/annotations\\2a36ad1e7caff3299d22c5ce1292970c.ann": {
+        "Disease": "3",
+        "Abbreviation": "1",
+        "Finding": "2",
+        "Body_Part": "1"
+    },
+    "resources/annotations\\2a452de4d5f2402e23bd0f6aa9c00c66.ann": {
+        "Body_Part": "1",
+        "Procedure": "1",
+        "Disease": "5",
+        "Finding": "2"
+    },
+    "resources/annotations\\2a6359c3fc7ffb8b9fe8fa0290a83a3f.ann": {
+        "Disease": "3",
+        "Abbreviation": "1",
+        "Procedure": "1",
+        "Body_Part": "1"
+    },
+    "resources/annotations\\2a84c04ddddddc75770154a0c071f62b.ann": {
+        "Body_Part": "2",
+        "Disease": "3",
+        "Finding": "3",
+        "Procedure": "1"
+    },
+    "resources/annotations\\2a8d493f1f4c1b2ced416963aaf4bdae.ann": {
+        "Finding": "3",
+        "Disease": "2"
+    },
+    "resources/annotations\\2aa2a4c3766cfd96d9aa39e537935d8b.ann": {
+        "Body_Part": "2",
+        "Finding": "2",
+        "Procedure": "1"
+    },
+    "resources/annotations\\2aacd89181cb9b83d9a03592e10b735f.ann": {
+        "Disease": "2",
+        "Finding": "1"
+    },
+    "resources/annotations\\2af55665daebfd706b48d8d6428b5767.ann": {
+        "Disease": "1",
+        "Body_Part": "1",
+        "Procedure": "1",
+        "Finding": "1"
+    },
+    "resources/annotations\\2b07dbda708120423f43878b19177891.ann": {
+        "Abbreviation": "1",
+        "Disease": "2",
+        "Body_Part": "1",
+        "Finding": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\2b125f3a1912faabf88fd69d26878823.ann": {
+        "Disease": "4",
+        "Finding": "1",
+        "Abbreviation": "2"
+    },
+    "resources/annotations\\2b16fb21c3825dd804a4deb13a954416.ann": {
+        "Disease": "3",
+        "Abbreviation": "1",
+        "Finding": "2",
+        "Body_Part": "1",
+        "Procedure": "1",
+        "Medication": "1"
+    },
+    "resources/annotations\\2b20a1edfd5fc2edc7ee027166d42b26.ann": {
+        "Disease": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\2b2ae1b2908be240bdb4e98d0e1ad5d4.ann": {
+        "Disease": "3",
+        "Finding": "2"
+    },
+    "resources/annotations\\2b5cc1d39aa8360d4d94ae77393e1173.ann": {
+        "Disease": "3",
+        "Abbreviation": "1",
+        "Finding": "1",
+        "Body_Part": "2"
+    },
+    "resources/annotations\\2b5d4c45fd6607788053b08d9cc6c73f.ann": {
+        "Body_Part": "2",
+        "Disease": "1",
+        "Finding": "4"
+    },
+    "resources/annotations\\2b64e619643858aa4f4264448e734007.ann": {
+        "Abbreviation": "1",
+        "Body_Part": "1",
+        "Disease": "4"
+    },
+    "resources/annotations\\2b681f45a507d1fd557dd5114647625a.ann": {
+        "Disease": "1",
+        "Body_Part": "5",
+        "Abbreviation": "4",
+        "Finding": "4"
+    },
+    "resources/annotations\\2b940ccf2c12d0d81de60db721345116.ann": {
+        "Disease": "1",
+        "Procedure": "1",
+        "Finding": "1"
+    },
+    "resources/annotations\\2b9956dfe447e3e369e934c1bb696197.ann": {
+        "Disease": "1",
+        "Body_Part": "1",
+        "Finding": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\2bb881976bfb9381058e743bb766743c.ann": {
+        "Disease": "2",
+        "Finding": "1"
+    },
+    "resources/annotations\\2c0732b650077c866ad924d9e884458c.ann": {
+        "Body_Part": "3",
+        "Abbreviation": "6",
+        "Finding": "2",
+        "Disease": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\2c2245932190d3a074bde302f6863a54.ann": {
+        "Abbreviation": "1",
+        "Body_Part": "3",
+        "Medication": "1",
+        "Finding": "3",
+        "Procedure": "2"
+    },
+    "resources/annotations\\2c2a3823b2582fb643cbff278e824831.ann": {
+        "Abbreviation": "2",
+        "Body_Part": "1",
+        "Disease": "2",
+        "Finding": "3"
+    },
+    "resources/annotations\\2c533a80851268fb31a4a43e137adcad.ann": {
+        "Disease": "2",
+        "Abbreviation": "2",
+        "Finding": "4",
+        "Body_Part": "3"
+    },
+    "resources/annotations\\2c674c6c17f66d1a4bdb1a4f9b64d15d.ann": {
+        "Abbreviation": "3",
+        "Body_Part": "2",
+        "Disease": "1",
+        "Finding": "1"
+    },
+    "resources/annotations\\2c754f2fc2e321116346a7e5d79aa9f0.ann": {
+        "Abbreviation": "6",
+        "Disease": "2",
+        "Body_Part": "6",
+        "Procedure": "1"
+    },
+    "resources/annotations\\2c7c84028ae4c39676ac242bc37419b9.ann": {
+        "Abbreviation": "2",
+        "Finding": "2",
+        "Disease": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\2c878adde000cc8eca62672102979ce1.ann": {
+        "Abbreviation": "1",
+        "Body_Part": "2",
+        "Disease": "2",
+        "Finding": "2",
+        "Family_Member": "1"
+    },
+    "resources/annotations\\2cd45a55df49325f31ceeccdd6171dc8.ann": {
+        "Disease": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\2ce2353b0666511fa8ccabe3408e07cc.ann": {
+        "Disease": "1",
+        "Abbreviation": "1",
+        "Finding": "1",
+        "Body_Part": "2"
+    },
+    "resources/annotations\\2cfabbc5476a6f11b091aea31171fda5.ann": {
+        "Body_Part": "1",
+        "Abbreviation": "2",
+        "Finding": "2",
+        "Procedure": "1",
+        "Medication": "1"
+    },
+    "resources/annotations\\2d10c9bc70c917bd79907289a0383629.ann": {
+        "Finding": "4",
+        "Abbreviation": "1"
+    },
+    "resources/annotations\\2d13ea00f53e3b693390a3005329a568.ann": {
+        "Procedure": "1",
+        "Abbreviation": "6",
+        "Disease": "1",
+        "Finding": "1"
+    },
+    "resources/annotations\\2d21e8586776835a0456b0e9cd5f59e2.ann": {
+        "Disease": "1",
+        "Procedure": "1",
+        "Abbreviation": "1"
+    },
+    "resources/annotations\\2d3614418b5c066f5d0f3b8096b8b6bb.ann": {
+        "Disease": "2",
+        "Procedure": "1",
+        "Body_Part": "1",
+        "Finding": "3"
+    },
+    "resources/annotations\\2d3bb75b9e0839da6c856022797826fb.ann": {
+        "Abbreviation": "1",
+        "Disease": "2",
+        "Finding": "1"
+    },
+    "resources/annotations\\2d43ff5e8ff4bd28882900e58db25358.ann": {
+        "Body_Part": "1",
+        "Disease": "1",
+        "Finding": "2"
+    },
+    "resources/annotations\\2d6e1f5f5c4b9f8d7bb3900d68bd142a.ann": {
+        "Abbreviation": "3",
+        "Body_Part": "2",
+        "Finding": "2",
+        "Disease": "2",
+        "Medication": "2",
+        "Procedure": "1"
+    },
+    "resources/annotations\\2d84486addd23eca73f3f47bfae8f974.ann": {
+        "Disease": "3",
+        "Abbreviation": "2",
+        "Procedure": "1",
+        "Body_Part": "2"
+    },
+    "resources/annotations\\2d85f4aa84af9706f4a451687ca07607.ann": {
+        "Disease": "2",
+        "Finding": "2",
+        "Procedure": "1",
+        "Body_Part": "1"
+    },
+    "resources/annotations\\2d8f81f71b5536fb730d5e99c4b688ab.ann": {
+        "Abbreviation": "1",
+        "Disease": "3",
+        "Finding": "1",
+        "Medication": "1"
+    },
+    "resources/annotations\\2d94550e6009f9f0f16935160d9fc338.ann": {
+        "Abbreviation": "1",
+        "Body_Part": "1",
+        "Disease": "3"
+    },
+    "resources/annotations\\2d9b965ec8eecff8f60f0043cadac14f.ann": {
+        "Body_Part": "1",
+        "Abbreviation": "1",
+        "Disease": "2",
+        "Finding": "1",
+        "Procedure": "3"
+    },
+    "resources/annotations\\2da7d2f6aa369e81a019fbd9207e64e9.ann": {
+        "Finding": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\2df5a7d0fc3a6b6fe0f82d669430541b.ann": {
+        "Body_Part": "1",
+        "Finding": "3"
+    },
+    "resources/annotations\\2e036d4ab568fc575015519cc00c0461.ann": {
+        "Finding": "3",
+        "Abbreviation": "2",
+        "Disease": "1"
+    },
+    "resources/annotations\\2e1a95e5ec17a47bb804be667d225c6a.ann": {
+        "Body_Part": "4",
+        "Abbreviation": "1",
+        "Disease": "3"
+    },
+    "resources/annotations\\2e582953ebeb74112eefbb59e16fcc49.ann": {
+        "Disease": "5",
+        "Abbreviation": "2",
+        "Body_Part": "1"
+    },
+    "resources/annotations\\2e5a4d2ff425c31d9fbbd7b94b021ec2.ann": {
+        "Disease": "2",
+        "Finding": "2"
+    },
+    "resources/annotations\\2e7265aec90bdc39dfbb48f8f63a39b6.ann": {
+        "Body_Part": "4",
+        "Finding": "3"
+    },
+    "resources/annotations\\2e827abcf6abf77e10908510d6aec5ac.ann": {
+        "Disease": "3",
+        "Abbreviation": "1",
+        "Finding": "2",
+        "Body_Part": "2"
+    },
+    "resources/annotations\\2ea8e907fd48c95ba47efcd87dacc30f.ann": {
+        "Abbreviation": "1",
+        "Body_Part": "1",
+        "Finding": "4",
+        "Disease": "1"
+    },
+    "resources/annotations\\2eaa0bf10fe3df6b4a37998932bb3177.ann": {
+        "Disease": "3"
+    },
+    "resources/annotations\\2ead5236d8a42658d544dd1d373af7b3.ann": {
+        "Disease": "2",
+        "Finding": "2",
+        "Abbreviation": "1",
+        "Body_Part": "1"
+    },
+    "resources/annotations\\2eafdad978edd6a5ee86118af9dcca58.ann": {
+        "Abbreviation": "1",
+        "Finding": "2",
+        "Body_Part": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\2ebaef2c06a2fc8589f5cfd5e49b139a.ann": {
+        "Disease": "3",
+        "Abbreviation": "1",
+        "Body_Part": "1"
+    },
+    "resources/annotations\\2ec59a7b64420fb27645a620b2056262.ann": {
+        "Disease": "3",
+        "Abbreviation": "2",
+        "Procedure": "1",
+        "Body_Part": "2"
+    },
+    "resources/annotations\\2ee065c7cc6ba745ddc127cdc2b666b4.ann": {
+        "Disease": "3",
+        "Abbreviation": "2",
+        "Finding": "1",
+        "Body_Part": "2",
+        "Procedure": "1"
+    },
+    "resources/annotations\\2f0c24f93ccdee0642596b5c9baa6f10.ann": {
+        "Disease": "3",
+        "Abbreviation": "1",
+        "Body_Part": "2",
+        "Finding": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\2f2312df25cf29437fb9c708ff52d8ca.ann": {
+        "Abbreviation": "1",
+        "Body_Part": "1",
+        "Disease": "1",
+        "Finding": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\2f29a6ccdfc386a1baecf7748635cb5b.ann": {
+        "Body_Part": "1",
+        "Abbreviation": "1",
+        "Disease": "3",
+        "Procedure": "1"
+    },
+    "resources/annotations\\2f3cb5d43bc634a39cffb34341b2b5f5.ann": {
+        "Abbreviation": "1",
+        "Disease": "3",
+        "Procedure": "1"
+    },
+    "resources/annotations\\2f61ebba23b6a6c8447840a665f32b93.ann": {
+        "Finding": "2",
+        "Body_Part": "1",
+        "Disease": "1",
+        "Medication": "2",
+        "Abbreviation": "1"
+    },
+    "resources/annotations\\2f730b56d7426a2d7a3b4d0cf7938e70.ann": {
+        "Procedure": "2",
+        "Body_Part": "1",
+        "Finding": "1",
+        "Disease": "1"
+    },
+    "resources/annotations\\2f796d164eabda5c11835eacc88e11ae.ann": {
+        "Abbreviation": "1",
+        "Body_Part": "1",
+        "Finding": "3",
+        "Disease": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\2f79c7c14728e36842f7b26376d4e12f.ann": {
+        "Body_Part": "1",
+        "Abbreviation": "2",
+        "Medication": "2",
+        "Procedure": "1",
+        "Finding": "1"
+    },
+    "resources/annotations\\2fa7faf3a5ed0b8f85306b99b52c23b0.ann": {
+        "Disease": "1",
+        "Abbreviation": "3",
+        "Finding": "1",
+        "Procedure": "1",
+        "Body_Part": "1"
+    },
+    "resources/annotations\\2fb52357846e19d62962dbb991d66c68.ann": {
+        "Abbreviation": "2",
+        "Body_Part": "1",
+        "Disease": "3"
+    },
+    "resources/annotations\\2fb7ef535b05d51204201bfa4809ab48.ann": {
+        "Abbreviation": "1",
+        "Body_Part": "2",
+        "Disease": "1",
+        "Finding": "2"
+    },
+    "resources/annotations\\2fcb21fc3271376800b89a8f539ce3ad.ann": {
+        "Disease": "2",
+        "Procedure": "1",
+        "Body_Part": "1"
+    },
+    "resources/annotations\\2fd5ba37dd76aae59e81d1cfb436ee08.ann": {
+        "Abbreviation": "1",
+        "Disease": "3"
+    },
+    "resources/annotations\\2feba1f29c548c38fb3943a8fd803741.ann": {
+        "Body_Part": "3",
+        "Disease": "2",
+        "Procedure": "1"
+    },
+    "resources/annotations\\30336a58938970573ce31f4c11a91dc1.ann": {
+        "Abbreviation": "4",
+        "Disease": "3",
+        "Finding": "2"
+    },
+    "resources/annotations\\3035e25549df6cdd4168f226ba993441.ann": {
+        "Body_Part": "1",
+        "Disease": "2",
+        "Finding": "1"
+    },
+    "resources/annotations\\3046eb29ab1823610d312f903389a38d.ann": {
+        "Body_Part": "2",
+        "Procedure": "3",
+        "Abbreviation": "2",
+        "Disease": "1",
+        "Finding": "3",
+        "Medication": "2"
+    },
+    "resources/annotations\\304a8f64b056c622a403c98ea107c963.ann": {
+        "Abbreviation": "1",
+        "Body_Part": "4",
+        "Disease": "2",
+        "Finding": "2",
+        "Procedure": "1"
+    },
+    "resources/annotations\\306c851a2fca77a5de95d2d18c557db8.ann": {
+        "Disease": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\308ff6199ce80088d7ae4b3ae8cb5543.ann": {
+        "Body_Part": "3",
+        "Disease": "1",
+        "Finding": "2"
+    },
+    "resources/annotations\\30c3656efc21462c30c6d0142416ff5c.ann": {
+        "Body_Part": "2",
+        "Procedure": "1"
+    },
+    "resources/annotations\\30cdb06c69df71baa3b33ad45be5a62c.ann": {
+        "Disease": "1",
+        "Finding": "2",
+        "Body_Part": "2",
+        "Procedure": "1",
+        "Medication": "1"
+    },
+    "resources/annotations\\30ef5ea8ce873575e1fabdce74c1e8de.ann": {
+        "Abbreviation": "1",
+        "Disease": "2",
+        "Finding": "2"
+    },
+    "resources/annotations\\30f4c740d2fceb1ea2cef048852f92cb.ann": {
+        "Disease": "3",
+        "Abbreviation": "1",
+        "Procedure": "1",
+        "Body_Part": "1",
+        "Finding": "1"
+    },
+    "resources/annotations\\311e58d3cf4f1d1a4240abe08e16c09e.ann": {
+        "Abbreviation": "1",
+        "Disease": "2",
+        "Finding": "2"
+    },
+    "resources/annotations\\312d5d6dd0ebcb5b1d8d7983a04b58fc.ann": {
+        "Body_Part": "2",
+        "Disease": "1",
+        "Procedure": "1",
+        "Finding": "1"
+    },
+    "resources/annotations\\3137168967e11d4bff3c9a0beb63740b.ann": {
+        "Disease": "2",
+        "Body_Part": "1"
+    },
+    "resources/annotations\\3139d6bc04139d2ffebb367a5e7b1732.ann": {
+        "Body_Part": "2",
+        "Abbreviation": "1",
+        "Finding": "4",
+        "Disease": "1"
+    },
+    "resources/annotations\\314f4b2942ec566960d9a3364906bad3.ann": {
+        "Disease": "2",
+        "Abbreviation": "2",
+        "Finding": "4",
+        "Body_Part": "1"
+    },
+    "resources/annotations\\315b9d5204e5ea342d99b767be26b8ea.ann": {
+        "Body_Part": "3",
+        "Abbreviation": "1",
+        "Finding": "3"
+    },
+    "resources/annotations\\3169b6f831f916e3aa3252ba1a16de4f.ann": {
+        "Disease": "3",
+        "Finding": "1"
+    },
+    "resources/annotations\\31845b11b77d1eeb8101304cbd17d9d2.ann": {
+        "Abbreviation": "4",
+        "Procedure": "1",
+        "Finding": "3",
+        "Disease": "1"
+    },
+    "resources/annotations\\31869055b31134981259dc513c7e1a34.ann": {
+        "Abbreviation": "1",
+        "Disease": "2"
+    },
+    "resources/annotations\\3186ce198a63065e0eb59f2782b9b06e.ann": {
+        "Disease": "4",
+        "Abbreviation": "2",
+        "Finding": "2"
+    },
+    "resources/annotations\\318ad5b6debe2c81b5c75dc4ad156a59.ann": {
+        "Abbreviation": "2",
+        "Disease": "2",
+        "Finding": "2",
+        "Body_Part": "1"
+    },
+    "resources/annotations\\31b0d9aadf70a68136559dd6c36f0771.ann": {
+        "Body_Part": "1",
+        "Finding": "2",
+        "Disease": "1"
+    },
+    "resources/annotations\\31b26741e579ac9b4999182d60b39ae4.ann": {
+        "Body_Part": "1",
+        "Finding": "3",
+        "Disease": "1"
+    },
+    "resources/annotations\\31ce4d58083587effdf793f98b842d34.ann": {
+        "Abbreviation": "1",
+        "Disease": "3"
+    },
+    "resources/annotations\\31fcf3558fac9e87b08f4c78f075df60.ann": {
+        "Finding": "4",
+        "Disease": "2",
+        "Body_Part": "2"
+    },
+    "resources/annotations\\322ae262ab679b5ddc3229d41939b5a5.ann": {
+        "Body_Part": "3",
+        "Finding": "2",
+        "Disease": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\3232c9310a84a20376669c85eaade881.ann": {
+        "Body_Part": "1",
+        "Procedure": "2",
+        "Finding": "2"
+    },
+    "resources/annotations\\3258bbe826e4f514db2c95b8b3db80ed.ann": {
+        "Body_Part": "1",
+        "Finding": "1",
+        "Disease": "2",
+        "Procedure": "1"
+    },
+    "resources/annotations\\327a4f48b965e105a3f2d807366e5063.ann": {
+        "Finding": "1",
+        "Disease": "2",
+        "Abbreviation": "1"
+    },
+    "resources/annotations\\327e9c67b7ebb42d831897c6da2a730d.ann": {
+        "Disease": "1",
+        "Abbreviation": "2",
+        "Body_Part": "2"
+    },
+    "resources/annotations\\32859e8fe6b21653be877e65d50d1e7d.ann": {
+        "Body_Part": "1",
+        "Abbreviation": "3",
+        "Medication": "2",
+        "Procedure": "1"
+    },
+    "resources/annotations\\32a374ef2d0dd7b317bbadda36d117c9.ann": {
+        "Body_Part": "2",
+        "Disease": "2",
+        "Finding": "2",
+        "Procedure": "1"
+    },
+    "resources/annotations\\32a55432df6a86cae026c063e8261427.ann": {
+        "Disease": "1",
+        "Abbreviation": "3",
+        "Procedure": "2",
+        "Medication": "1"
+    },
+    "resources/annotations\\32bf924dc770a7e7d23046f2ef5ae7d0.ann": {
+        "Disease": "2",
+        "Finding": "1"
+    },
+    "resources/annotations\\32ee86e7da40a01ea4238936650c9e4a.ann": {
+        "Disease": "3",
+        "Abbreviation": "1",
+        "Body_Part": "4",
+        "Finding": "1"
+    },
+    "resources/annotations\\332cc5a7a550050352bc726a3791813f.ann": {
+        "Body_Part": "2",
+        "Abbreviation": "3",
+        "Procedure": "2",
+        "Disease": "1"
+    },
+    "resources/annotations\\33553a173515ec92f94f4d062288ccf8.ann": {
+        "Procedure": "1"
+    },
+    "resources/annotations\\335b38b2ba8891385ee3e3f0dacda4b0.ann": {
+        "Disease": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\336ae27c37a6e42377d3271e16af10d8.ann": {
+        "Disease": "1",
+        "Abbreviation": "1",
+        "Body_Part": "3",
+        "Finding": "2",
+        "Procedure": "2"
+    },
+    "resources/annotations\\337da347a4db94afb9ada19d07e113ea.ann": {
+        "Disease": "1",
+        "Abbreviation": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\3382056161944bb665a050920cc6f9b6.ann": {
+        "Body_Part": "1",
+        "Procedure": "2",
+        "Finding": "2"
+    },
+    "resources/annotations\\33823565a8e24fde4acd8f77558d615a.ann": {
+        "Disease": "4",
+        "Abbreviation": "1",
+        "Finding": "3",
+        "Procedure": "1",
+        "Body_Part": "1"
+    },
+    "resources/annotations\\33b1b68817bfe408018d5de6a8002de5.ann": {
+        "Abbreviation": "3",
+        "Procedure": "2",
+        "Body_Part": "1",
+        "Disease": "2",
+        "Finding": "1"
+    },
+    "resources/annotations\\33c025b2b62e0355ff716d984a8ec1a3.ann": {
+        "Body_Part": "2",
+        "Finding": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\33c6cd142c944af74bae74dca380ebba.ann": {
+        "Disease": "2"
+    },
+    "resources/annotations\\33d32e6ebb934015a78eafbbf74b76a4.ann": {
+        "Abbreviation": "1",
+        "Body_Part": "2",
+        "Finding": "3",
+        "Procedure": "1"
+    },
+    "resources/annotations\\33d5b2ba59009c9bcc71e0a9508cf312.ann": {
+        "Body_Part": "2",
+        "Finding": "3",
+        "Procedure": "1"
+    },
+    "resources/annotations\\33e2d95bcb3404a2cb9165a12cc652bd.ann": {
+        "Disease": "5",
+        "Abbreviation": "1",
+        "Finding": "3",
+        "Body_Part": "3",
+        "Procedure": "1"
+    },
+    "resources/annotations\\341cf292406b2fc933f552e3a34dd0e3.ann": {
+        "Abbreviation": "1",
+        "Body_Part": "3",
+        "Disease": "1",
+        "Procedure": "1",
+        "Finding": "2"
+    },
+    "resources/annotations\\3420361f9c57b8c0770caa2a2aa91178.ann": {
+        "Disease": "1",
+        "Finding": "2",
+        "Body_Part": "2"
+    },
+    "resources/annotations\\3420ee7d964921c6b6cc456a2255b6c7.ann": {
+        "Body_Part": "4",
+        "Abbreviation": "5",
+        "Finding": "4",
+        "Procedure": "1"
+    },
+    "resources/annotations\\34454596f45db6404900c065fc94431e.ann": {
+        "Body_Part": "2",
+        "Finding": "2"
+    },
+    "resources/annotations\\344679f2851a686820d81c0b5cac2ea0.ann": {
+        "Body_Part": "1",
+        "Abbreviation": "1",
+        "Disease": "2",
+        "Procedure": "1"
+    },
+    "resources/annotations\\347c9aea0c94b3d3e423af66212200aa.ann": {
+        "Finding": "5",
+        "Body_Part": "4",
+        "Abbreviation": "3"
+    },
+    "resources/annotations\\348e28e50e928d95ce2dd159f05e0a4b.ann": {
+        "Disease": "3",
+        "Abbreviation": "1",
+        "Body_Part": "3",
+        "Procedure": "2"
+    },
+    "resources/annotations\\349740a1ba87cf8129dcf9ad8764b9b8.ann": {
+        "Finding": "4"
+    },
+    "resources/annotations\\349cb8e29694965327320c88ba101a29.ann": {
+        "Abbreviation": "5",
+        "Body_Part": "1",
+        "Disease": "2",
+        "Finding": "2",
+        "Medication": "1"
+    },
+    "resources/annotations\\34aee0dc0704dab872f66f57f9853967.ann": {
+        "Disease": "1",
+        "Procedure": "2",
+        "Body_Part": "2",
+        "Abbreviation": "2"
+    },
+    "resources/annotations\\34b55aa6c404fd58996b4c25c814a82b.ann": {
+        "Disease": "1",
+        "Abbreviation": "5",
+        "Body_Part": "2",
+        "Procedure": "3",
+        "Finding": "1"
+    },
+    "resources/annotations\\34bd0d8d5cc951defe66866e9350892a.ann": {
+        "Disease": "2",
+        "Procedure": "1",
+        "Abbreviation": "2",
+        "Body_Part": "2"
+    },
+    "resources/annotations\\34c5823d94d9b4201db36e986b654cdd.ann": {
+        "Body_Part": "1",
+        "Disease": "2"
+    },
+    "resources/annotations\\34f95f53155aa04fd36f608e1e5e635b.ann": {
+        "Disease": "3",
+        "Abbreviation": "13",
+        "Procedure": "3",
+        "Body_Part": "3",
+        "Medication": "2",
+        "Finding": "4"
+    },
+    "resources/annotations\\35034590852d1e6b1ed85252a82c5cfe.ann": {
+        "Finding": "6",
+        "Abbreviation": "2",
+        "Body_Part": "4",
+        "Procedure": "1"
+    },
+    "resources/annotations\\352aa37ad7ac48795581400c748d31cd.ann": {
+        "Body_Part": "4",
+        "Abbreviation": "1",
+        "Finding": "4",
+        "Disease": "2",
+        "Procedure": "1"
+    },
+    "resources/annotations\\35404c91fb917d85a7efb510caba36ad.ann": {
+        "Disease": "1",
+        "Finding": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\3551a688a0f1b6e4486cfd434bd671a4.ann": {
+        "Disease": "2",
+        "Abbreviation": "1",
+        "Finding": "3",
+        "Procedure": "1",
+        "Body_Part": "3"
+    },
+    "resources/annotations\\3562e8f296b46906a0deca6db10e13af.ann": {
+        "Abbreviation": "1",
+        "Body_Part": "1",
+        "Finding": "1",
+        "Disease": "3",
+        "Procedure": "1"
+    },
+    "resources/annotations\\35704a977e3420c98f06319b6959138f.ann": {
+        "Body_Part": "1",
+        "Abbreviation": "3",
+        "Disease": "1",
+        "Finding": "1",
+        "Procedure": "2"
+    },
+    "resources/annotations\\357c3dd08dc75b14d9797ce361a99f00.ann": {
+        "Body_Part": "1",
+        "Disease": "1",
+        "Abbreviation": "3",
+        "Procedure": "1",
+        "Finding": "1"
+    },
+    "resources/annotations\\358527ca8642fab506ffdd1870d9b17b.ann": {
+        "Disease": "3",
+        "Body_Part": "4",
+        "Abbreviation": "2",
+        "Finding": "3"
+    },
+    "resources/annotations\\358da9c430bbd147d068fb4047413c4a.ann": {
+        "Procedure": "1",
+        "Finding": "2"
+    },
+    "resources/annotations\\35ad4fdb62c669dc23a58f2598c9f5f0.ann": {
+        "Body_Part": "1",
+        "Disease": "1",
+        "Finding": "1",
+        "Abbreviation": "2",
+        "Procedure": "2"
+    },
+    "resources/annotations\\35b31b62f04b6ddc70efcaf4473b12c2.ann": {
+        "Abbreviation": "1",
+        "Finding": "3",
+        "Disease": "1"
+    },
+    "resources/annotations\\360b6221baaed8c1d7d0aabde0635914.ann": {
+        "Body_Part": "2",
+        "Disease": "1",
+        "Finding": "3"
+    },
+    "resources/annotations\\36343c508ffe478bf5eac615e559f3f4.ann": {
+        "Disease": "3",
+        "Body_Part": "1"
+    },
+    "resources/annotations\\3655fa6d6c3755e172046f0aedda1154.ann": {
+        "Abbreviation": "4",
+        "Body_Part": "1",
+        "Medication": "2",
+        "Disease": "3",
+        "Procedure": "1"
+    },
+    "resources/annotations\\36823a1b9062f62bb593768ffb965337.ann": {
+        "Abbreviation": "3",
+        "Medication": "2",
+        "Body_Part": "1",
+        "Disease": "3"
+    },
+    "resources/annotations\\369de8918edb5f2cc25b7f13c7a33e0f.ann": {
+        "Abbreviation": "2",
+        "Finding": "2",
+        "Disease": "2",
+        "Body_Part": "1"
+    },
+    "resources/annotations\\36b487ba5883aa852ac3827714ce4c25.ann": {
+        "Disease": "1",
+        "Body_Part": "2",
+        "Finding": "1",
+        "Medication": "1",
+        "Abbreviation": "1"
+    },
+    "resources/annotations\\36b8d1311f01ebad8e3fe1b2723d7d74.ann": {
+        "Disease": "2",
+        "Body_Part": "1",
+        "Abbreviation": "1",
+        "Finding": "1"
+    },
+    "resources/annotations\\36e5380cbacc526d5db99ad829ce5dca.ann": {
+        "Finding": "1",
+        "Disease": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\36e76098cbe3f7e71def606a0e03a1ab.ann": {
+        "Disease": "4",
+        "Abbreviation": "1",
+        "Finding": "1",
+        "Body_Part": "2"
+    },
+    "resources/annotations\\3709f288bde90e49fef654c1b6b3fbd4.ann": {
+        "Body_Part": "1",
+        "Abbreviation": "2",
+        "Disease": "2",
+        "Procedure": "2"
+    },
+    "resources/annotations\\373dda2aed418e2184d3713a2d2e2fc0.ann": {
+        "Disease": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\37415d05aa69c0e5a64267de21dc0747.ann": {
+        "Body_Part": "2",
+        "Finding": "2"
+    },
+    "resources/annotations\\3758f22ee76b977c982ef89c44b52b8b.ann": {
+        "Body_Part": "3",
+        "Finding": "2",
+        "Disease": "1"
+    },
+    "resources/annotations\\376cd47e03577e2dee606ee9cbb898a7.ann": {
+        "Body_Part": "3",
+        "Finding": "1",
+        "Procedure": "2"
+    },
+    "resources/annotations\\3791f44e646a0942f3776e08f6210309.ann": {
+        "Disease": "5",
+        "Abbreviation": "4",
+        "Finding": "1",
+        "Body_Part": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\37ab70a0be765ac91ef1926336822965.ann": {
+        "Medication": "1",
+        "Abbreviation": "2",
+        "Procedure": "2",
+        "Body_Part": "1",
+        "Disease": "1"
+    },
+    "resources/annotations\\37af10ccd93929ec9a26b363778ca0f0.ann": {
+        "Disease": "3",
+        "Abbreviation": "4",
+        "Body_Part": "2"
+    },
+    "resources/annotations\\37c01c4ff4d1ec6318698d01b91dcfd9.ann": {
+        "Disease": "3",
+        "Abbreviation": "1",
+        "Finding": "1",
+        "Body_Part": "2"
+    },
+    "resources/annotations\\37d5e835c19221c1a40f0e92107ddd6b.ann": {
+        "Body_Part": "1",
+        "Medication": "1",
+        "Abbreviation": "1",
+        "Procedure": "3"
+    },
+    "resources/annotations\\37da7c72effa8aa14722bb6286522a2b.ann": {
+        "Disease": "3",
+        "Abbreviation": "1",
+        "Finding": "2",
+        "Procedure": "1"
+    },
+    "resources/annotations\\37eed6804a7804e7d87945ceba8f6e0f.ann": {
+        "Body_Part": "1",
+        "Disease": "3",
+        "Abbreviation": "1",
+        "Finding": "2",
+        "Procedure": "1"
+    },
+    "resources/annotations\\37fc173871bf0e08459b9407de88cd2f.ann": {
+        "Finding": "2",
+        "Medication": "2",
+        "Abbreviation": "4",
+        "Body_Part": "2",
+        "Procedure": "3"
+    },
+    "resources/annotations\\380547c6dce9b55787ee02597bac7c72.ann": {
+        "Abbreviation": "1",
+        "Body_Part": "2",
+        "Disease": "4",
+        "Finding": "2",
+        "Procedure": "1"
+    },
+    "resources/annotations\\381a109134b0ca38564de7fccb536e80.ann": {
+        "Body_Part": "1",
+        "Disease": "1",
+        "Abbreviation": "3",
+        "Procedure": "3",
+        "Finding": "1"
+    },
+    "resources/annotations\\381ba7d6284d9d143e239f6ee7e4d6e0.ann": {
+        "Abbreviation": "1",
+        "Disease": "1",
+        "Finding": "2"
+    },
+    "resources/annotations\\382684306bb3dcdcb72d0f1993262dff.ann": {
+        "Body_Part": "2",
+        "Disease": "1",
+        "Finding": "2"
+    },
+    "resources/annotations\\38308aeea36de62b416dbdce63cdae05.ann": {
+        "Abbreviation": "1",
+        "Disease": "2"
+    },
+    "resources/annotations\\38326a6b0b50aca2a68bf8c96c1eaacf.ann": {
+        "Body_Part": "1",
+        "Disease": "1",
+        "Finding": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\387538e8840930799988c6f277b3c40f.ann": {
+        "Abbreviation": "2",
+        "Finding": "3",
+        "Procedure": "1",
+        "Body_Part": "1",
+        "Disease": "1"
+    },
+    "resources/annotations\\3878014be0f7bf7d86e14f5ec8a57de0.ann": {
+        "Body_Part": "2",
+        "Abbreviation": "1",
+        "Medication": "2",
+        "Procedure": "2",
+        "Disease": "1"
+    },
+    "resources/annotations\\3886b15cc87d92844fbda2c9ac5fe6a9.ann": {
+        "Disease": "1",
+        "Finding": "2"
+    },
+    "resources/annotations\\3888b4eb98ae71924fd08cbe090e4a83.ann": {
+        "Disease": "3",
+        "Abbreviation": "4",
+        "Procedure": "2",
+        "Body_Part": "1"
+    },
+    "resources/annotations\\389623cc653d2982a248cea626c677c3.ann": {
+        "Body_Part": "1",
+        "Finding": "1",
+        "Procedure": "1",
+        "Disease": "1"
+    },
+    "resources/annotations\\38a5c0b3e95a157508ddd8edac21d9bc.ann": {
+        "Abbreviation": "1",
+        "Body_Part": "1",
+        "Disease": "2",
+        "Finding": "2"
+    },
+    "resources/annotations\\38beff05c5f86ea0fcbe0ba8c39eb8da.ann": {
+        "Abbreviation": "4",
+        "Body_Part": "2",
+        "Finding": "2",
+        "Procedure": "1"
+    },
+    "resources/annotations\\38ceb04863c62e9f909cf01eef9e0c8d.ann": {
+        "Disease": "1",
+        "Abbreviation": "1",
+        "Finding": "1",
+        "Body_Part": "2",
+        "Procedure": "2"
+    },
+    "resources/annotations\\38d289cb9ae510e98950850bae97e85c.ann": {
+        "Disease": "2",
+        "Abbreviation": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\38e004613ab4d313dee9ec98ceb42af0.ann": {
+        "Finding": "3",
+        "Abbreviation": "1",
+        "Body_Part": "3",
+        "Procedure": "1"
+    },
+    "resources/annotations\\38fe7afd71b9b2086f4ca02c374f49b7.ann": {
+        "Body_Part": "2",
+        "Procedure": "4",
+        "Finding": "1"
+    },
+    "resources/annotations\\3907d4587c256c9be50e1a74077ac594.ann": {
+        "Finding": "2",
+        "Body_Part": "1",
+        "Medication": "1",
+        "Abbreviation": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\393060448f6e478e0eed3d781e278e53.ann": {
+        "Disease": "1",
+        "Body_Part": "2",
+        "Finding": "1"
+    },
+    "resources/annotations\\3966093b1eac370a09508a71184994d3.ann": {
+        "Abbreviation": "5",
+        "Body_Part": "4",
+        "Procedure": "2",
+        "Finding": "2"
+    },
+    "resources/annotations\\399bae9c6e7b1b460b8d2022c6b76a61.ann": {
+        "Abbreviation": "1",
+        "Body_Part": "2",
+        "Disease": "1",
+        "Finding": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\39b2d8d165f95bd5dd0c6c0e54c40ade.ann": {
+        "Disease": "3",
+        "Abbreviation": "1",
+        "Procedure": "2",
+        "Body_Part": "1"
+    },
+    "resources/annotations\\39d38aa6bb2d5907f5d1cce66875b780.ann": {
+        "Body_Part": "3",
+        "Abbreviation": "1",
+        "Disease": "1",
+        "Finding": "2"
+    },
+    "resources/annotations\\39dc1380aebe3092bc867ae8750e7ad7.ann": {
+        "Disease": "2",
+        "Finding": "3",
+        "Abbreviation": "4",
+        "Body_Part": "1"
+    },
+    "resources/annotations\\39ea321cee90564e4394615aef9d4ed3.ann": {
+        "Body_Part": "2",
+        "Abbreviation": "2",
+        "Finding": "7",
+        "Procedure": "1",
+        "Disease": "1"
+    },
+    "resources/annotations\\39f4edeb6f544b7638f78923dbd850fd.ann": {
+        "Disease": "2",
+        "Finding": "1"
+    },
+    "resources/annotations\\3a0073317cb8f348ecd8e26bc6afef31.ann": {
+        "Body_Part": "1",
+        "Disease": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\3a0603c2b060099b067e6fbe7b1c2422.ann": {
+        "Body_Part": "1",
+        "Abbreviation": "2",
+        "Disease": "1"
+    },
+    "resources/annotations\\3a1c688cd32a4cbd7627708bfe49bdd8.ann": {
+        "Procedure": "2",
+        "Finding": "1"
+    },
+    "resources/annotations\\3a2692aac315212ca2135d0dc8da0bba.ann": {
+        "Disease": "2",
+        "Body_Part": "1"
+    },
+    "resources/annotations\\3a3a5bc738db58c726f366ec49f8b04a.ann": {
+        "Procedure": "2",
+        "Disease": "1",
+        "Abbreviation": "2",
+        "Finding": "1",
+        "Body_Part": "1"
+    },
+    "resources/annotations\\3a3e2cf48163e5b6b479ef917b78b5b5.ann": {
+        "Disease": "3",
+        "Abbreviation": "1",
+        "Finding": "2",
+        "Body_Part": "1"
+    },
+    "resources/annotations\\3a7144482189d3473313fcf93780be1d.ann": {
+        "Abbreviation": "1",
+        "Body_Part": "1",
+        "Disease": "2",
+        "Family_Member": "1"
+    },
+    "resources/annotations\\3a9345d4b70a97adc74d32ec01804c97.ann": {
+        "Disease": "2",
+        "Abbreviation": "1",
+        "Finding": "1",
+        "Body_Part": "1"
+    },
+    "resources/annotations\\3a9860721a3ee7ded3df3586769164e1.ann": {
+        "Body_Part": "2",
+        "Abbreviation": "2",
+        "Finding": "3"
+    },
+    "resources/annotations\\3aa1eaae9390ec7d673a7b1ac02cfb09.ann": {
+        "Finding": "3",
+        "Body_Part": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\3aa34f0716a1c22062d68a0128243de6.ann": {
+        "Disease": "2",
+        "Finding": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\3ab34c920d4e91939e56410f82ca68ea.ann": {
+        "Disease": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\3ab7121d839074bf338d56984e109bbc.ann": {
+        "Disease": "4",
+        "Abbreviation": "1",
+        "Body_Part": "1"
+    },
+    "resources/annotations\\3ae84506ac85665221002444a8a15c33.ann": {
+        "Body_Part": "1",
+        "Abbreviation": "1",
+        "Disease": "3",
+        "Finding": "3"
+    },
+    "resources/annotations\\3afb0b6ed79d03800d8d97641a0c090c.ann": {
+        "Body_Part": "2",
+        "Abbreviation": "1",
+        "Disease": "1",
+        "Finding": "2",
+        "Procedure": "1"
+    },
+    "resources/annotations\\3b1044e6d48ac6511cf8daebde5241ec.ann": {
+        "Body_Part": "1",
+        "Abbreviation": "1",
+        "Finding": "2",
+        "Procedure": "1"
+    },
+    "resources/annotations\\3b20b438d27bb6776dd9b84f8ef3286f.ann": {
+        "Disease": "2",
+        "Abbreviation": "1",
+        "Body_Part": "2",
+        "Procedure": "1"
+    },
+    "resources/annotations\\3b4191c021026aad709b8984f0c98fa2.ann": {
+        "Disease": "2",
+        "Body_Part": "1"
+    },
+    "resources/annotations\\3b4eb45c5689a1206b4dc64f78475519.ann": {
+        "Abbreviation": "1",
+        "Disease": "3"
+    },
+    "resources/annotations\\3b4fa8edbdcfc9c44e0d6b0642105633.ann": {
+        "Body_Part": "2",
+        "Abbreviation": "4",
+        "Disease": "1",
+        "Finding": "1"
+    },
+    "resources/annotations\\3b533d4d03889f9575c1a62dc065e0c3.ann": {
+        "Abbreviation": "4",
+        "Disease": "1",
+        "Finding": "2",
+        "Body_Part": "2"
+    },
+    "resources/annotations\\3b6f53a62f77647f44511118afadf89d.ann": {
+        "Finding": "1",
+        "Disease": "1",
+        "Body_Part": "2",
+        "Abbreviation": "2"
+    },
+    "resources/annotations\\3b7064fa3e9e0a812ff41255c0c39531.ann": {
+        "Body_Part": "3",
+        "Abbreviation": "2",
+        "Disease": "3",
+        "Finding": "3",
+        "Procedure": "1"
+    },
+    "resources/annotations\\3b7df568369329f42698d50de9774dc5.ann": {
+        "Abbreviation": "1",
+        "Body_Part": "2",
+        "Disease": "4"
+    },
+    "resources/annotations\\3b991fd5967d8869ba59de00a61bc8e2.ann": {
+        "Disease": "3",
+        "Body_Part": "1",
+        "Abbreviation": "1",
+        "Finding": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\3b9940f57fe759179790ac855ff16875.ann": {
+        "Disease": "3",
+        "Abbreviation": "1",
+        "Body_Part": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\3bb3ae608850c2f2e02461fcad18a873.ann": {
+        "Body_Part": "2",
+        "Disease": "2",
+        "Finding": "2",
+        "Abbreviation": "1"
+    },
+    "resources/annotations\\3bbe0c2c1b12012151296a3e2b3aeb6a.ann": {
+        "Disease": "1",
+        "Finding": "2",
+        "Procedure": "1"
+    },
+    "resources/annotations\\3bbe41d254080990dc1cf0717e54f8bb.ann": {
+        "Body_Part": "2",
+        "Finding": "2"
+    },
+    "resources/annotations\\3bd77a62065afdd8ea735bbbdf94b321.ann": {
+        "Disease": "1",
+        "Finding": "3",
+        "Body_Part": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\3be95cd1cf7a99c4923f1eee54e9217b.ann": {
+        "Disease": "2",
+        "Procedure": "2"
+    },
+    "resources/annotations\\3c31dccac6808f5f6da53dfab67d19eb.ann": {
+        "Body_Part": "1",
+        "Procedure": "1",
+        "Finding": "1"
+    },
+    "resources/annotations\\3c894b924192e86adccf35f9801f74d6.ann": {
+        "Finding": "2",
+        "Body_Part": "1",
+        "Disease": "1"
+    },
+    "resources/annotations\\3c8bffbb3e5392669463e3dc621e0646.ann": {
+        "Body_Part": "1",
+        "Abbreviation": "1",
+        "Finding": "2",
+        "Procedure": "2"
+    },
+    "resources/annotations\\3cbd048ec41810bd94d2b09e8a6d84d2.ann": {
+        "Abbreviation": "4",
+        "Body_Part": "1",
+        "Procedure": "1",
+        "Disease": "1"
+    },
+    "resources/annotations\\3cbe0b633445bbf14aa439e9d338f2a2.ann": {
+        "Abbreviation": "1",
+        "Body_Part": "1",
+        "Disease": "2",
+        "Finding": "1"
+    },
+    "resources/annotations\\3ccc078bd1c53b5a76dd4613edf3c9ca.ann": {
+        "Body_Part": "3",
+        "Abbreviation": "3",
+        "Disease": "2",
+        "Procedure": "3"
+    },
+    "resources/annotations\\3ceaf50ca4235242ee62aa81e0f2fd0a.ann": {
+        "Disease": "2",
+        "Body_Part": "2"
+    },
+    "resources/annotations\\3cf08b6ae22ca3064bd70895a5b94968.ann": {
+        "Body_Part": "1",
+        "Abbreviation": "2",
+        "Finding": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\3cfcdd4870e3b1e52bd7a4e87f4a5013.ann": {
+        "Body_Part": "2",
+        "Finding": "2",
+        "Disease": "1"
+    },
+    "resources/annotations\\3d234d671b04476f99925548f90de0a5.ann": {
+        "Abbreviation": "2",
+        "Finding": "1",
+        "Disease": "2",
+        "Procedure": "1"
+    },
+    "resources/annotations\\3d261b2137fbd39f14644c9405c43739.ann": {
+        "Abbreviation": "2",
+        "Body_Part": "1",
+        "Finding": "1"
+    },
+    "resources/annotations\\3d56fb543c7e18ee458222441a44231b.ann": {
+        "Abbreviation": "1",
+        "Finding": "3",
+        "Body_Part": "3"
+    },
+    "resources/annotations\\3d70d75b1fa310cb3706096b4abe9d5e.ann": {
+        "Disease": "1",
+        "Abbreviation": "3",
+        "Body_Part": "1",
+        "Procedure": "2",
+        "Finding": "2",
+        "Medication": "2"
+    },
+    "resources/annotations\\3d9896f3e8303cd642b93379320bc182.ann": {
+        "Disease": "3",
+        "Abbreviation": "2"
+    },
+    "resources/annotations\\3d9ad7efbb5d138a4d015cd915c0c526.ann": {
+        "Body_Part": "1",
+        "Abbreviation": "1",
+        "Finding": "2",
+        "Procedure": "2"
+    },
+    "resources/annotations\\3d9f4c7ec347ecd146c95a76677ad0c3.ann": {
+        "Body_Part": "2",
+        "Disease": "1",
+        "Procedure": "1",
+        "Finding": "1"
+    },
+    "resources/annotations\\3da1185c21eeff71cf87851c0c45ded0.ann": {
+        "Disease": "1",
+        "Body_Part": "2"
+    },
+    "resources/annotations\\3dc640e2488e03573a405e88261ff17e.ann": {
+        "Body_Part": "2",
+        "Abbreviation": "2",
+        "Disease": "1",
+        "Procedure": "2",
+        "Finding": "1"
+    },
+    "resources/annotations\\3ddf9675bd370d33fc85496f12e60679.ann": {
+        "Body_Part": "2",
+        "Finding": "1"
+    },
+    "resources/annotations\\3e1cfb0c63d658ead24c5c0544bbf65e.ann": {
+        "Disease": "1",
+        "Body_Part": "3",
+        "Finding": "4",
+        "Procedure": "1"
+    },
+    "resources/annotations\\3e3aa99490fbf7b490603b1948fe780b.ann": {
+        "Disease": "1",
+        "Procedure": "1",
+        "Finding": "1"
+    },
+    "resources/annotations\\3e3c0216f71b66f8a132004a02565858.ann": {
+        "Finding": "1",
+        "Disease": "3",
+        "Body_Part": "1"
+    },
+    "resources/annotations\\3e5d43c3c7584d397cb4b1d48d8102b2.ann": {
+        "Disease": "3",
+        "Procedure": "1",
+        "Abbreviation": "1",
+        "Body_Part": "1"
+    },
+    "resources/annotations\\3e77b944c75e7cdf12df8bf5b087e1a4.ann": {
+        "Disease": "1",
+        "Body_Part": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\3e7999eb12d0f66e036dfa502e6efeb2.ann": {
+        "Body_Part": "2",
+        "Finding": "3",
+        "Abbreviation": "3"
+    },
+    "resources/annotations\\3e81e85dea619fc85427d52f3f3d057c.ann": {
+        "Abbreviation": "1",
+        "Body_Part": "2",
+        "Disease": "2",
+        "Finding": "1"
+    },
+    "resources/annotations\\3e871b50e560b3f20551673970800b44.ann": {
+        "Body_Part": "4",
+        "Abbreviation": "1",
+        "Disease": "2",
+        "Procedure": "1",
+        "Finding": "1"
+    },
+    "resources/annotations\\3e8bf2a9115f0fcfa8a79c7a0ac5afbc.ann": {
+        "Disease": "1",
+        "Finding": "1",
+        "Body_Part": "1",
+        "Abbreviation": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\3e8fae6a8a83c20b18c62432bdce00fd.ann": {
+        "Body_Part": "2",
+        "Finding": "3",
+        "Procedure": "1"
+    },
+    "resources/annotations\\3ea46c8a2eecd3b7b0a7754bd0deaa8b.ann": {
+        "Abbreviation": "3",
+        "Disease": "5",
+        "Body_Part": "1",
+        "Finding": "1"
+    },
+    "resources/annotations\\3eaf636e6353792633d7c09d7cc5978a.ann": {
+        "Finding": "3",
+        "Family_Member": "1",
+        "Disease": "1",
+        "Abbreviation": "1",
+        "Body_Part": "1"
+    },
+    "resources/annotations\\3eb00fc3e649538595b702f9fd083dea.ann": {
+        "Disease": "1",
+        "Body_Part": "2",
+        "Procedure": "1",
+        "Medication": "1",
+        "Finding": "1",
+        "Abbreviation": "1"
+    },
+    "resources/annotations\\3eec7485502bdbfc70e2a5590502b2fc.ann": {
+        "Disease": "2",
+        "Body_Part": "1",
+        "Medication": "1",
+        "Abbreviation": "1",
+        "Finding": "1"
+    },
+    "resources/annotations\\3ef8a6de0b191e1050dc85fd0d9b39ce.ann": {
+        "Body_Part": "1",
+        "Finding": "3",
+        "Procedure": "1"
+    },
+    "resources/annotations\\3f0b0e84d019ce3fa034df1718053c0a.ann": {
+        "Disease": "1",
+        "Body_Part": "2"
+    },
+    "resources/annotations\\3f0df345b1cf6cababfe78da91174b17.ann": {
+        "Body_Part": "2",
+        "Disease": "2",
+        "Abbreviation": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\3f19ea8f49bea043e0d209fe4c1da334.ann": {
+        "Abbreviation": "1",
+        "Finding": "3",
+        "Body_Part": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\3f29850742530282010f79d641f7b83d.ann": {
+        "Abbreviation": "2",
+        "Disease": "1",
+        "Body_Part": "1",
+        "Finding": "2"
+    },
+    "resources/annotations\\3f54b6fe681aa738061a84a147269d36.ann": {
+        "Abbreviation": "3",
+        "Body_Part": "7",
+        "Disease": "2",
+        "Finding": "4",
+        "Procedure": "2"
+    },
+    "resources/annotations\\3f5cb7b0952042546e243997698e60e1.ann": {
+        "Disease": "2",
+        "Body_Part": "3",
+        "Abbreviation": "1",
+        "Procedure": "1",
+        "Medication": "1",
+        "Finding": "1"
+    },
+    "resources/annotations\\3f5d4e9d2bda49b31a5fddecbce05ca4.ann": {
+        "Body_Part": "2",
+        "Disease": "2",
+        "Finding": "1"
+    },
+    "resources/annotations\\3f91371c8db625aebfcf7c9b107c9792.ann": {
+        "Body_Part": "1",
+        "Disease": "1",
+        "Finding": "1"
+    },
+    "resources/annotations\\3f9704f1eb413ab2dd984d55b3d6faf3.ann": {
+        "Disease": "1",
+        "Abbreviation": "1",
+        "Body_Part": "1",
+        "Finding": "1"
+    },
+    "resources/annotations\\3fa85ce6e2bc0322f8a5f263eeee5a48.ann": {
+        "Disease": "3",
+        "Body_Part": "1",
+        "Finding": "1",
+        "Procedure": "2"
+    },
+    "resources/annotations\\3fb8107153c41f2c318fa2c5350e6192.ann": {
+        "Finding": "3",
+        "Body_Part": "3",
+        "Abbreviation": "5",
+        "Disease": "1"
+    },
+    "resources/annotations\\3fba024f148d7d03e2c09584f6420f0c.ann": {
+        "Abbreviation": "1",
+        "Body_Part": "1",
+        "Disease": "2",
+        "Finding": "1"
+    },
+    "resources/annotations\\3fbd1f3804cf4cb004abcaf5869ac8d8.ann": {
+        "Disease": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\3fe5760246497ef979db6930bcf71b93.ann": {
+        "Body_Part": "2",
+        "Medication": "1",
+        "Abbreviation": "2",
+        "Disease": "2",
+        "Procedure": "1"
+    },
+    "resources/annotations\\3fed39ef9e50a3036da76acc530c7a0f.ann": {
+        "Body_Part": "1",
+        "Finding": "4"
+    },
+    "resources/annotations\\3ff8af464f3808676c89fe2261436e54.ann": {
+        "Body_Part": "1",
+        "Disease": "1",
+        "Finding": "2"
+    },
+    "resources/annotations\\3fff23fc5f28ea01cdf96353b343be69.ann": {
+        "Body_Part": "2",
+        "Disease": "3"
+    },
+    "resources/annotations\\4005a52d1575cb3d55e58d822a93fd7a.ann": {
+        "Disease": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\40093a160c064d03814f3bf8a58b6514.ann": {
+        "Disease": "2",
+        "Abbreviation": "1",
+        "Finding": "3",
+        "Procedure": "2",
+        "Body_Part": "1"
+    },
+    "resources/annotations\\400ad0d4f8e02686d0260fd187f1d5e2.ann": {
+        "Disease": "3",
+        "Abbreviation": "2",
+        "Body_Part": "3",
+        "Finding": "1"
+    },
+    "resources/annotations\\401810a70131b7ea6a467b2bd6ad8257.ann": {
+        "Abbreviation": "1",
+        "Disease": "4",
+        "Body_Part": "1"
+    },
+    "resources/annotations\\401c915f5951cb3cccb86bf606fa0e0d.ann": {
+        "Abbreviation": "7",
+        "Body_Part": "1",
+        "Disease": "3",
+        "Finding": "1"
+    },
+    "resources/annotations\\4038a0566626f615ebd57c6077c76f79.ann": {
+        "Finding": "3",
+        "Abbreviation": "2",
+        "Body_Part": "1",
+        "Disease": "1"
+    },
+    "resources/annotations\\405eac8ee2293392458b2651c14f419b.ann": {
+        "Body_Part": "1",
+        "Abbreviation": "3",
+        "Medication": "1",
+        "Finding": "2",
+        "Procedure": "2"
+    },
+    "resources/annotations\\40631655c7132e6939ede27bcae01148.ann": {
+        "Abbreviation": "3",
+        "Disease": "2",
+        "Finding": "3"
+    },
+    "resources/annotations\\408586a537d103e457a5140479a8a30a.ann": {
+        "Abbreviation": "6",
+        "Body_Part": "4",
+        "Procedure": "1",
+        "Finding": "3"
+    },
+    "resources/annotations\\4096d6cadc4150db691865b3090f2c10.ann": {
+        "Disease": "2",
+        "Finding": "3"
+    },
+    "resources/annotations\\40d791bcf67f1685047334a31fac7e46.ann": {
+        "Abbreviation": "1",
+        "Finding": "4",
+        "Disease": "2",
+        "Body_Part": "2"
+    },
+    "resources/annotations\\40edb96d06476aedb98fbe6476063e29.ann": {
+        "Body_Part": "6",
+        "Abbreviation": "3",
+        "Disease": "2",
+        "Finding": "5"
+    },
+    "resources/annotations\\412de031017039841ee1f218a1cdc4ae.ann": {
+        "Body_Part": "1",
+        "Abbreviation": "4",
+        "Procedure": "2",
+        "Disease": "1",
+        "Medication": "1"
+    },
+    "resources/annotations\\4139d02ae813744397df7a57e1d0673a.ann": {
+        "Disease": "2",
+        "Abbreviation": "1",
+        "Finding": "1",
+        "Body_Part": "1"
+    },
+    "resources/annotations\\414b020ff3365e717609fdff05011f8b.ann": {
+        "Procedure": "3",
+        "Abbreviation": "1",
+        "Body_Part": "1",
+        "Finding": "1"
+    },
+    "resources/annotations\\4160911d996fa2aa0bb93c07057b4424.ann": {
+        "Disease": "2",
+        "Finding": "1",
+        "Body_Part": "1"
+    },
+    "resources/annotations\\4162a1b2e6e0e0533147f719f3147937.ann": {
+        "Disease": "3",
+        "Abbreviation": "2",
+        "Finding": "2",
+        "Body_Part": "1"
+    },
+    "resources/annotations\\4170521a682f5933f2dd4d97d5209322.ann": {
+        "Body_Part": "2",
+        "Disease": "2",
+        "Finding": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\417b5b30819c4dbae7491dda8a51c3ac.ann": {
+        "Body_Part": "5",
+        "Abbreviation": "5",
+        "Finding": "3"
+    },
+    "resources/annotations\\417e10ab6f545a6934e06e3d1271a0b7.ann": {
+        "Disease": "5"
+    },
+    "resources/annotations\\41858364fbbc52efcf031128a81e65cb.ann": {
+        "Disease": "2",
+        "Body_Part": "2",
+        "Procedure": "1",
+        "Finding": "1"
+    },
+    "resources/annotations\\419da9a6f93fb23a01830cacc58d5b1a.ann": {
+        "Abbreviation": "1",
+        "Disease": "2",
+        "Finding": "3"
+    },
+    "resources/annotations\\41fa033573a53e3676cd5c0f6b61c9cf.ann": {
+        "Disease": "2",
+        "Finding": "3",
+        "Procedure": "2",
+        "Medication": "1",
+        "Abbreviation": "2"
+    },
+    "resources/annotations\\421d4cf3e6bad636274f5b0c762a1c88.ann": {
+        "Disease": "3",
+        "Finding": "5",
+        "Procedure": "1",
+        "Abbreviation": "2",
+        "Body_Part": "1"
+    },
+    "resources/annotations\\421fe0687b82f6eddcb1d3f9e0ee26ff.ann": {
+        "Body_Part": "2",
+        "Disease": "1",
+        "Finding": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\4231a65b8cc5e69e477397fa0ec77baa.ann": {
+        "Body_Part": "4",
+        "Abbreviation": "1",
+        "Finding": "2",
+        "Disease": "2"
+    },
+    "resources/annotations\\424e1be79ed9b9d756c1c8e8eea1b724.ann": {
+        "Abbreviation": "1",
+        "Body_Part": "1",
+        "Disease": "5"
+    },
+    "resources/annotations\\426945041037bf0b7d1353fd6b57a19e.ann": {
+        "Abbreviation": "1",
+        "Disease": "1",
+        "Finding": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\426e3d64eb14600fcf074dfd9e8f973c.ann": {
+        "Body_Part": "1",
+        "Finding": "3",
+        "Disease": "2"
+    },
+    "resources/annotations\\429018dbac051ef5ec9227b4be7a2da9.ann": {
+        "Disease": "4",
+        "Procedure": "1",
+        "Body_Part": "4",
+        "Finding": "1"
+    },
+    "resources/annotations\\4293df3113913e0669068b76a37c13c3.ann": {
+        "Disease": "2",
+        "Finding": "5",
+        "Body_Part": "2",
+        "Procedure": "2",
+        "Abbreviation": "1"
+    },
+    "resources/annotations\\42bdcaf303c9e4be1ba9e8ce6f38ea92.ann": {
+        "Disease": "1",
+        "Body_Part": "3",
+        "Finding": "3",
+        "Abbreviation": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\42cb43d68e44658edfa82172d5447d03.ann": {
+        "Disease": "3",
+        "Abbreviation": "2",
+        "Body_Part": "4",
+        "Finding": "1"
+    },
+    "resources/annotations\\430a7c83f19884c0f1354713b18e7952.ann": {
+        "Disease": "1",
+        "Body_Part": "3",
+        "Abbreviation": "4",
+        "Finding": "3",
+        "Medication": "1",
+        "Procedure": "1"
+    },
+    "resources/annotations\\431fa0771dd908e4f2239ffe29432098.ann": {
+        "Disease": "3",
+        "Abbreviation": "1",
+        "Body_Part": "3",
+        "Procedure": "2",
+        "Medication": "1",
+        "Finding": "2"
+    },
+    "resources/annotations\\4325111303ae0debc785f0b55cbfd0b8.ann": {
+        "Disease": "1",
+        "Finding": "2"
+    },
+    "resources/annotations\\43493193f93729758df74070f4694ee5.ann": {
+        "Finding": "2",
+        "Abbreviation": "1",
+        "Body_Part": "1"
+    },
+    "resources/annotations\\434de482198da94e766ab7dc397ac36b.ann": {
+        "Body_Part": "2",
+        "Disease": "1",
+        "Finding": "2",
+        "Procedure": "1"
+    },
+    "resources/annotations\\434ee0c9b8513672fff9e8f0c578996b.ann": {
+        "Disease": "1",
+        "Body_Part": "2",
+        "Abbreviation": "2",
+        "Finding": "1",
+        "Procedure": "2"
+    },
+    "resources/annotations\\439cd13ef7a5036907cb1edee7b3f348.ann": {
+        "Disease": "2",
+        "Procedure": "1",
+        "Medication": "2",
+        "Finding": "1",
+        "Abbreviation": "2"
+    },
+    "resources/annotations\\43bd3c36a2722794f37645cb44eb8122.ann": {
+        "Disease": "1",
+        "Finding": "3"
+    },
+    "resources/annotations\\43cb7f8d8426203182f56350f42408c8.ann": {
+        "Body_Part": "2",
+        "Procedure": "1",
+        "Disease": "1",
+        "Finding": "1"
+    },
+    "resources/annotations\\43dfaa0aba2c791f679c6102a7f900c0.ann": {
+        "Body_Part": "1",
+        "Disease": "3",
+        "Procedure": "1"
+    },
+    "resources/annotations\\43f00f84a4bbd9809c665f165fdc680f.ann": {
+        "Disease": "5",
+        "Abbreviation": "2",
+        "Finding": "1"
+    },
+    "resources/annotations\\4426a0fb62bd43d319de6af9f3365cc0.ann": {
+        "Disease": "2",
+        "Abbreviation": "3",
+        "Finding": "3"
+    }
+}
