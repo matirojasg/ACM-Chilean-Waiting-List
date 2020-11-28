@@ -1,0 +1,3 @@
+[submodule "wl-corpus"]
+	path = wl-corpus
+	url = https://github.com/fvillena/wl-corpus
